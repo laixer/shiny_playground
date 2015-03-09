@@ -22,13 +22,12 @@ shinyUI(fluidPage(
                   selected = 1)
     ),
 
-    # Show a plot of the generated distribution
     mainPanel(
       h3("Description"),
-      p("This application attempts (poorly) to predict the entry counts at a
-           given NYC subway station at a given time and day of week. Select a
-           subway station, time of day and day of week and the application
-           will make a prediction for the number of entry counts."),
+      p("This application attempts (extremely poorly) to predict the entry
+           counts at a given NYC subway station at a given time and day of week.
+           Select a subway station, time of day and day of week and the
+           application will make a prediction for the number of entry counts."),
       p("For the selected station, the application will also plot the average
         entry counts by day of week."),
       h3("Prediction"),
