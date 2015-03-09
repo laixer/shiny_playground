@@ -19,6 +19,7 @@ stations <- as.character(unique(turnstile_data$station))
 stations <- stations[order(stations)]
 days <- as.character(unique(turnstile_data$day_week))
 days <- days[order(days)]
+# Load pre-computed coefficients as it takes time to compute.
 load("fit.Rdata")
 
 shinyServer(function(input, output) {
