@@ -1,7 +1,7 @@
 library(ggplot2)
 library(shiny)
 
-turnstile_data <- read.csv("turnstile.csv")
+turnstile_data <- read.csv("turnstile.csv.bz2")
 turnstile_data <- mutate(turnstile_data,
                          hour = as.factor(hour),
                          day_week = factor(day_week,
