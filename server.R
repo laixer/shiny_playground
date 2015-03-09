@@ -2,9 +2,9 @@ library(dplyr)
 library(ggplot2)
 library(shiny)
 
-turnstile_data <- read.csv("turnstile.csv.bz2")
+cat("Loading data...")
+turnstile_data <- read.csv("model_data.csv.bz2")
 turnstile_data <- mutate(turnstile_data,
-                         hour = as.factor(hour),
                          day_week = factor(day_week,
                                            levels=c(
                                              "Monday",
@@ -17,11 +17,10 @@ turnstile_data <- mutate(turnstile_data,
                                            ordered = TRUE))
 stations <- as.character(unique(turnstile_data$station))
 stations <- stations[order(stations)]
-hours <- as.numeric(levels(unique(turnstile_data$hour)))
-hours <- hours[order(hours)]
 days <- as.character(unique(turnstile_data$day_week))
 days <- days[order(days)]
-fit <- lm(entries ~ station + hour + day_week, turnstile_data)
+load("fit.Rdata")
+
 shinyServer(function(input, output) {
   output$station_selector <- renderUI({
     selectInput("station", "Station", stations)
@@ -32,7 +31,7 @@ shinyServer(function(input, output) {
   })
 
   output$prediction <- renderUI({
-    model_input = data.frame(station=input$station,hour=input$hour,day_week=input$day)
+    model_input = data.frame(station=input$station,time=input$hour * 60 * 60,day_week=input$day)
     HTML(paste("The predicted turnstile entry count for <b>",
           input$station,
           "</b> station on <b>",

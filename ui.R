@@ -10,7 +10,7 @@ shinyUI(fluidPage(
   sidebarLayout(
     sidebarPanel(
       uiOutput("station_selector"),
-      uiOutput("hour_selector"),
+      sliderInput("hour", "Hour of day", min = 0, max = 23, step = 1, value = 0),
       selectInput("day", "Day of week",
                   choices = list("Monday",
                                  "Tuesday",
