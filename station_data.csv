@@ -1,0 +1,2591 @@
+"","station","day_week","entries"
+"1","103 ST","Friday",36681.5
+"2","103 ST","Monday",31282.5
+"3","103 ST","Saturday",21329.25
+"4","103 ST","Sunday",18608.75
+"5","103 ST","Thursday",36856.75
+"6","103 ST","Tuesday",36437.75
+"7","103 ST","Wednesday",37242
+"8","103 ST-CORONA","Friday",20769.5
+"9","103 ST-CORONA","Monday",18674.25
+"10","103 ST-CORONA","Saturday",15332.25
+"11","103 ST-CORONA","Sunday",12731
+"12","103 ST-CORONA","Thursday",20651.75
+"13","103 ST-CORONA","Tuesday",20531
+"14","103 ST-CORONA","Wednesday",20606.75
+"15","104 ST","Friday",2730
+"16","104 ST","Monday",2388.5
+"17","104 ST","Saturday",1521.5
+"18","104 ST","Sunday",1216.75
+"19","104 ST","Thursday",2779.25
+"20","104 ST","Tuesday",2798
+"21","104 ST","Wednesday",2778.25
+"22","110 ST","Friday",13324.5
+"23","110 ST","Monday",11332.75
+"24","110 ST","Saturday",8088
+"25","110 ST","Sunday",6883.5
+"26","110 ST","Thursday",13306.5
+"27","110 ST","Tuesday",13097
+"28","110 ST","Wednesday",13293.5
+"29","110 ST-CATHEDRL","Friday",14999.25
+"30","110 ST-CATHEDRL","Monday",12311.5
+"31","110 ST-CATHEDRL","Saturday",8057.75
+"32","110 ST-CATHEDRL","Sunday",7411.5
+"33","110 ST-CATHEDRL","Thursday",14754.25
+"34","110 ST-CATHEDRL","Tuesday",14740.25
+"35","110 ST-CATHEDRL","Wednesday",15391.5
+"36","110 ST-CPN","Friday",10072.5
+"37","110 ST-CPN","Monday",8909
+"38","110 ST-CPN","Saturday",6613.5
+"39","110 ST-CPN","Sunday",6239.5
+"40","110 ST-CPN","Thursday",10092.5
+"41","110 ST-CPN","Tuesday",10061.5
+"42","110 ST-CPN","Wednesday",10235
+"43","111 ST","Friday",14380.25
+"44","111 ST","Monday",13160.5
+"45","111 ST","Saturday",10225.75
+"46","111 ST","Sunday",8906.5
+"47","111 ST","Thursday",14345.25
+"48","111 ST","Tuesday",14328
+"49","111 ST","Wednesday",14416.75
+"50","116 ST","Friday",37833.75
+"51","116 ST","Monday",32372.5
+"52","116 ST","Saturday",24912.5
+"53","116 ST","Sunday",22647.25
+"54","116 ST","Thursday",37543.75
+"55","116 ST","Tuesday",37286.5
+"56","116 ST","Wednesday",37902.75
+"57","116 ST-COLUMBIA","Friday",14355.75
+"58","116 ST-COLUMBIA","Monday",12643.5
+"59","116 ST-COLUMBIA","Saturday",6648.25
+"60","116 ST-COLUMBIA","Sunday",5913.5
+"61","116 ST-COLUMBIA","Thursday",15674.75
+"62","116 ST-COLUMBIA","Tuesday",15595
+"63","116 ST-COLUMBIA","Wednesday",16542
+"64","121 ST","Friday",2523.25
+"65","121 ST","Monday",2266.5
+"66","121 ST","Saturday",1572.5
+"67","121 ST","Sunday",1360.75
+"68","121 ST","Thursday",2510.75
+"69","121 ST","Tuesday",2533.5
+"70","121 ST","Wednesday",2550.5
+"71","125 ST","Friday",88135
+"72","125 ST","Monday",75344.75
+"73","125 ST","Saturday",56162
+"74","125 ST","Sunday",51314
+"75","125 ST","Thursday",86940
+"76","125 ST","Tuesday",86570
+"77","125 ST","Wednesday",87153
+"78","135 ST","Friday",21913.75
+"79","135 ST","Monday",19380
+"80","135 ST","Saturday",14702.75
+"81","135 ST","Sunday",13486.5
+"82","135 ST","Thursday",22265.5
+"83","135 ST","Tuesday",21858.5
+"84","135 ST","Wednesday",22325
+"85","137 ST-CITY COL","Friday",15076
+"86","137 ST-CITY COL","Monday",13748.75
+"87","137 ST-CITY COL","Saturday",8184
+"88","137 ST-CITY COL","Sunday",7045.75
+"89","137 ST-CITY COL","Thursday",15795.5
+"90","137 ST-CITY COL","Tuesday",15645
+"91","137 ST-CITY COL","Wednesday",15759.5
+"92","138 ST-3 AVE","Friday",8534.25
+"93","138 ST-3 AVE","Monday",7222.25
+"94","138 ST-3 AVE","Saturday",4926.75
+"95","138 ST-3 AVE","Sunday",4281.25
+"96","138 ST-3 AVE","Thursday",8353.75
+"97","138 ST-3 AVE","Tuesday",8384
+"98","138 ST-3 AVE","Wednesday",8459.5
+"99","138 ST-GR CONC","Friday",3591.75
+"100","138 ST-GR CONC","Monday",2998.5
+"101","138 ST-GR CONC","Saturday",1811.5
+"102","138 ST-GR CONC","Sunday",1396.25
+"103","138 ST-GR CONC","Thursday",3556.25
+"104","138 ST-GR CONC","Tuesday",3626.75
+"105","138 ST-GR CONC","Wednesday",3659.25
+"106","145 ST","Friday",39275
+"107","145 ST","Monday",34447.75
+"108","145 ST","Saturday",27828.25
+"109","145 ST","Sunday",24637.75
+"110","145 ST","Thursday",39908
+"111","145 ST","Tuesday",38937
+"112","145 ST","Wednesday",39678
+"113","148 ST-LENOX","Friday",4158.75
+"114","148 ST-LENOX","Monday",2892.25
+"115","148 ST-LENOX","Saturday",218.75
+"116","148 ST-LENOX","Sunday",0.5
+"117","148 ST-LENOX","Thursday",4251
+"118","148 ST-LENOX","Tuesday",4128
+"119","148 ST-LENOX","Wednesday",4185
+"120","149 ST-3 AVE","Friday",26238.25
+"121","149 ST-3 AVE","Monday",22666.75
+"122","149 ST-3 AVE","Saturday",15242.25
+"123","149 ST-3 AVE","Sunday",11937.75
+"124","149 ST-3 AVE","Thursday",26329.5
+"125","149 ST-3 AVE","Tuesday",26088
+"126","149 ST-3 AVE","Wednesday",26439
+"127","149 ST-GR CONC","Friday",14833.5
+"128","149 ST-GR CONC","Monday",13030.25
+"129","149 ST-GR CONC","Saturday",7967.5
+"130","149 ST-GR CONC","Sunday",6606
+"131","149 ST-GR CONC","Thursday",15742.75
+"132","149 ST-GR CONC","Tuesday",15716
+"133","149 ST-GR CONC","Wednesday",16105.75
+"134","14 ST","Friday",74666.5
+"135","14 ST","Monday",59432.5
+"136","14 ST","Saturday",50567.5
+"137","14 ST","Sunday",46875.25
+"138","14 ST","Thursday",74145.25
+"139","14 ST","Tuesday",70658.25
+"140","14 ST","Wednesday",73152.25
+"141","14 ST-6 AVE","Friday",26633.75
+"142","14 ST-6 AVE","Monday",19914.25
+"143","14 ST-6 AVE","Saturday",16828.75
+"144","14 ST-6 AVE","Sunday",14323
+"145","14 ST-6 AVE","Thursday",26231
+"146","14 ST-6 AVE","Tuesday",24965
+"147","14 ST-6 AVE","Wednesday",26368
+"148","14 ST-UNION SQ","Friday",116125
+"149","14 ST-UNION SQ","Monday",93419.25
+"150","14 ST-UNION SQ","Saturday",80974.5
+"151","14 ST-UNION SQ","Sunday",68457.5
+"152","14 ST-UNION SQ","Thursday",113652
+"153","14 ST-UNION SQ","Tuesday",111604.75
+"154","14 ST-UNION SQ","Wednesday",115688.25
+"155","14TH STREET","Friday",11866.75
+"156","14TH STREET","Monday",8331
+"157","14TH STREET","Saturday",8610.5
+"158","14TH STREET","Sunday",6691.25
+"159","14TH STREET","Thursday",9142.25
+"160","14TH STREET","Tuesday",9557.25
+"161","14TH STREET","Wednesday",9317.25
+"162","155 ST","Friday",6932.25
+"163","155 ST","Monday",6308
+"164","155 ST","Saturday",4748
+"165","155 ST","Sunday",4294
+"166","155 ST","Thursday",6848.5
+"167","155 ST","Tuesday",6760.25
+"168","155 ST","Wednesday",6934.5
+"169","157 ST","Friday",11571.25
+"170","157 ST","Monday",10275.75
+"171","157 ST","Saturday",8477
+"172","157 ST","Sunday",7396.75
+"173","157 ST","Thursday",11435.5
+"174","157 ST","Tuesday",11371.25
+"175","157 ST","Wednesday",11562.5
+"176","15 ST-PROSPECT","Friday",6744.5
+"177","15 ST-PROSPECT","Monday",6011.25
+"178","15 ST-PROSPECT","Saturday",3752.5
+"179","15 ST-PROSPECT","Sunday",3140.5
+"180","15 ST-PROSPECT","Thursday",7060.75
+"181","15 ST-PROSPECT","Tuesday",6825.5
+"182","15 ST-PROSPECT","Wednesday",6910
+"183","161 ST-YANKEE","Friday",25363
+"184","161 ST-YANKEE","Monday",22917.5
+"185","161 ST-YANKEE","Saturday",23925.5
+"186","161 ST-YANKEE","Sunday",21137.25
+"187","161 ST-YANKEE","Thursday",25040.75
+"188","161 ST-YANKEE","Tuesday",30198
+"189","161 ST-YANKEE","Wednesday",34794.75
+"190","163 ST-AMSTERDM","Friday",4447.25
+"191","163 ST-AMSTERDM","Monday",3950.5
+"192","163 ST-AMSTERDM","Saturday",3036.75
+"193","163 ST-AMSTERDM","Sunday",2610
+"194","163 ST-AMSTERDM","Thursday",4400.25
+"195","163 ST-AMSTERDM","Tuesday",4354
+"196","163 ST-AMSTERDM","Wednesday",4394.75
+"197","167 ST","Friday",20521.75
+"198","167 ST","Monday",18700.5
+"199","167 ST","Saturday",13549
+"200","167 ST","Sunday",11664.25
+"201","167 ST","Thursday",20512
+"202","167 ST","Tuesday",20659.25
+"203","167 ST","Wednesday",20971.75
+"204","168 ST-BROADWAY","Friday",25713.5
+"205","168 ST-BROADWAY","Monday",21788.75
+"206","168 ST-BROADWAY","Saturday",14119.25
+"207","168 ST-BROADWAY","Sunday",12485.75
+"208","168 ST-BROADWAY","Thursday",26369.25
+"209","168 ST-BROADWAY","Tuesday",26425.5
+"210","168 ST-BROADWAY","Wednesday",26599.5
+"211","169 ST","Friday",9251.25
+"212","169 ST","Monday",8280.5
+"213","169 ST","Saturday",5357
+"214","169 ST","Sunday",4488.25
+"215","169 ST","Thursday",9430.5
+"216","169 ST","Tuesday",9488
+"217","169 ST","Wednesday",9621
+"218","170 ST","Friday",26042.25
+"219","170 ST","Monday",15355.25
+"220","170 ST","Saturday",11249.75
+"221","170 ST","Sunday",9226.5
+"222","170 ST","Thursday",16895
+"223","170 ST","Tuesday",17357.25
+"224","170 ST","Wednesday",17301
+"225","174-175 ST","Friday",5509
+"226","174-175 ST","Monday",4981.25
+"227","174-175 ST","Saturday",3699.5
+"228","174-175 ST","Sunday",3159.5
+"229","174-175 ST","Thursday",5444.75
+"230","174-175 ST","Tuesday",5509.5
+"231","174-175 ST","Wednesday",5568
+"232","174 ST","Friday",8181.5
+"233","174 ST","Monday",7307.5
+"234","174 ST","Saturday",5166
+"235","174 ST","Sunday",4214.25
+"236","174 ST","Thursday",8138
+"237","174 ST","Tuesday",8149.25
+"238","174 ST","Wednesday",8197.5
+"239","175 ST","Friday",14044.75
+"240","175 ST","Monday",12575.25
+"241","175 ST","Saturday",8705
+"242","175 ST","Sunday",7484
+"243","175 ST","Thursday",14064
+"244","175 ST","Tuesday",14094.5
+"245","175 ST","Wednesday",14087.5
+"246","176 ST","Friday",6135.75
+"247","176 ST","Monday",5491.75
+"248","176 ST","Saturday",3728.75
+"249","176 ST","Sunday",3114
+"250","176 ST","Thursday",6134.5
+"251","176 ST","Tuesday",6188.5
+"252","176 ST","Wednesday",6183.75
+"253","181 ST","Friday",23665
+"254","181 ST","Monday",21113.5
+"255","181 ST","Saturday",16096
+"256","181 ST","Sunday",14382
+"257","181 ST","Thursday",23845.75
+"258","181 ST","Tuesday",23878.75
+"259","181 ST","Wednesday",24072.75
+"260","182-183 ST","Friday",5224.25
+"261","182-183 ST","Monday",4678.25
+"262","182-183 ST","Saturday",3511.25
+"263","182-183 ST","Sunday",3035
+"264","182-183 ST","Thursday",5134.25
+"265","182-183 ST","Tuesday",5047
+"266","182-183 ST","Wednesday",5106
+"267","183 ST","Friday",6422.5
+"268","183 ST","Monday",5891
+"269","183 ST","Saturday",4254.75
+"270","183 ST","Sunday",3629
+"271","183 ST","Thursday",6503.25
+"272","183 ST","Tuesday",6589.25
+"273","183 ST","Wednesday",6539.5
+"274","18 AVE","Friday",16503.75
+"275","18 AVE","Monday",15239.75
+"276","18 AVE","Saturday",10191.5
+"277","18 AVE","Sunday",9461.5
+"278","18 AVE","Thursday",16678.75
+"279","18 AVE","Tuesday",16885
+"280","18 AVE","Wednesday",16745.75
+"281","18 ST","Friday",9017.75
+"282","18 ST","Monday",6922.5
+"283","18 ST","Saturday",4841
+"284","18 ST","Sunday",3818.25
+"285","18 ST","Thursday",9415.75
+"286","18 ST","Tuesday",8619.75
+"287","18 ST","Wednesday",9205.75
+"288","190 ST","Friday",4898.75
+"289","190 ST","Monday",4476.75
+"290","190 ST","Saturday",3449.75
+"291","190 ST","Sunday",3212.5
+"292","190 ST","Thursday",4929
+"293","190 ST","Tuesday",5006.75
+"294","190 ST","Wednesday",4914.75
+"295","191 ST","Friday",8957.25
+"296","191 ST","Monday",8011.5
+"297","191 ST","Saturday",5733.75
+"298","191 ST","Sunday",5129.75
+"299","191 ST","Thursday",9144.25
+"300","191 ST","Tuesday",9125.25
+"301","191 ST","Wednesday",9061.5
+"302","1 AVE","Friday",26146.25
+"303","1 AVE","Monday",21252
+"304","1 AVE","Saturday",19945
+"305","1 AVE","Sunday",18471.25
+"306","1 AVE","Thursday",25624
+"307","1 AVE","Tuesday",24174.75
+"308","1 AVE","Wednesday",25379.25
+"309","207 ST","Friday",6896.25
+"310","207 ST","Monday",6106.5
+"311","207 ST","Saturday",4942
+"312","207 ST","Sunday",4404.75
+"313","207 ST","Thursday",6758
+"314","207 ST","Tuesday",6833.75
+"315","207 ST","Wednesday",6872.75
+"316","20 AVE","Friday",9723.5
+"317","20 AVE","Monday",8767.75
+"318","20 AVE","Saturday",5849.75
+"319","20 AVE","Sunday",4901.5
+"320","20 AVE","Thursday",9791.25
+"321","20 AVE","Tuesday",9935.75
+"322","20 AVE","Wednesday",9944.25
+"323","215 ST","Friday",2163
+"324","215 ST","Monday",1833.25
+"325","215 ST","Saturday",1104.75
+"326","215 ST","Sunday",953
+"327","215 ST","Thursday",2157.5
+"328","215 ST","Tuesday",2266.5
+"329","215 ST","Wednesday",2243.75
+"330","219 ST","Friday",3780.75
+"331","219 ST","Monday",3311.25
+"332","219 ST","Saturday",2435.25
+"333","219 ST","Sunday",1923
+"334","219 ST","Thursday",3724.25
+"335","219 ST","Tuesday",3726.25
+"336","219 ST","Wednesday",3727
+"337","21 ST","Friday",9408.75
+"338","21 ST","Monday",7315.25
+"339","21 ST","Saturday",3621.25
+"340","21 ST","Sunday",2888
+"341","21 ST","Thursday",9456
+"342","21 ST","Tuesday",9098.5
+"343","21 ST","Wednesday",9449.75
+"344","225 ST","Friday",4916.25
+"345","225 ST","Monday",4421.25
+"346","225 ST","Saturday",3039.75
+"347","225 ST","Sunday",2329.75
+"348","225 ST","Thursday",4886
+"349","225 ST","Tuesday",5009
+"350","225 ST","Wednesday",4977.75
+"351","22 AVE-BAY PKY","Friday",1583.25
+"352","22 AVE-BAY PKY","Monday",1475
+"353","22 AVE-BAY PKY","Saturday",883.5
+"354","22 AVE-BAY PKY","Sunday",878.75
+"355","22 AVE-BAY PKY","Thursday",1703.5
+"356","22 AVE-BAY PKY","Tuesday",1658.5
+"357","22 AVE-BAY PKY","Wednesday",1706.75
+"358","231 ST","Friday",9835.5
+"359","231 ST","Monday",8677
+"360","231 ST","Saturday",6196
+"361","231 ST","Sunday",5409.5
+"362","231 ST","Thursday",9931.25
+"363","231 ST","Tuesday",9972.75
+"364","231 ST","Wednesday",10084.75
+"365","233 ST","Friday",5978.25
+"366","233 ST","Monday",5285.75
+"367","233 ST","Saturday",3691.5
+"368","233 ST","Sunday",2963.25
+"369","233 ST","Thursday",5897.25
+"370","233 ST","Tuesday",6069.25
+"371","233 ST","Wednesday",6012.25
+"372","238 ST","Friday",4120
+"373","238 ST","Monday",3652
+"374","238 ST","Saturday",2497.5
+"375","238 ST","Sunday",2332.5
+"376","238 ST","Thursday",4226.5
+"377","238 ST","Tuesday",4230
+"378","238 ST","Wednesday",4231
+"379","23 ST","Friday",69233.75
+"380","23 ST","Monday",59147.5
+"381","23 ST","Saturday",48447
+"382","23 ST","Sunday",29680.25
+"383","23 ST","Thursday",74519.25
+"384","23 ST","Tuesday",74546.5
+"385","23 ST","Wednesday",76569
+"386","23 ST-5 AVE","Friday",24617.5
+"387","23 ST-5 AVE","Monday",19228
+"388","23 ST-5 AVE","Saturday",13733
+"389","23 ST-5 AVE","Sunday",10720.5
+"390","23 ST-5 AVE","Thursday",25659.5
+"391","23 ST-5 AVE","Tuesday",24423.25
+"392","23 ST-5 AVE","Wednesday",25684.25
+"393","23 ST-6 AVE","Friday",29225.75
+"394","23 ST-6 AVE","Monday",21198.25
+"395","23 ST-6 AVE","Saturday",12790
+"396","23 ST-6 AVE","Sunday",9728.5
+"397","23 ST-6 AVE","Thursday",30447.25
+"398","23 ST-6 AVE","Tuesday",28843.25
+"399","23 ST-6 AVE","Wednesday",30344
+"400","242 ST","Friday",7130.75
+"401","242 ST","Monday",6609.25
+"402","242 ST","Saturday",4483.25
+"403","242 ST","Sunday",3867.5
+"404","242 ST","Thursday",7255.25
+"405","242 ST","Tuesday",7531.25
+"406","242 ST","Wednesday",7434.5
+"407","25 AVE","Friday",5082.75
+"408","25 AVE","Monday",4549.75
+"409","25 AVE","Saturday",2888
+"410","25 AVE","Sunday",2431
+"411","25 AVE","Thursday",5150.5
+"412","25 AVE","Tuesday",5217.5
+"413","25 AVE","Wednesday",5182.25
+"414","25 ST","Friday",4136.25
+"415","25 ST","Monday",3639
+"416","25 ST","Saturday",2714.25
+"417","25 ST","Sunday",2415
+"418","25 ST","Thursday",4095
+"419","25 ST","Tuesday",4100.5
+"420","25 ST","Wednesday",4213
+"421","28 ST","Friday",39780.5
+"422","28 ST","Monday",32056.5
+"423","28 ST","Saturday",19581.5
+"424","28 ST","Sunday",15663.75
+"425","28 ST","Thursday",42145
+"426","28 ST","Tuesday",40484.25
+"427","28 ST","Wednesday",41569.25
+"428","28 ST-BROADWAY","Friday",12869
+"429","28 ST-BROADWAY","Monday",9731.25
+"430","28 ST-BROADWAY","Saturday",6747.75
+"431","28 ST-BROADWAY","Sunday",5064
+"432","28 ST-BROADWAY","Thursday",13084.5
+"433","28 ST-BROADWAY","Tuesday",12405.25
+"434","28 ST-BROADWAY","Wednesday",12951.5
+"435","2 AVE","Friday",19055
+"436","2 AVE","Monday",14955.25
+"437","2 AVE","Saturday",14239.75
+"438","2 AVE","Sunday",13189.75
+"439","2 AVE","Thursday",18479.5
+"440","2 AVE","Tuesday",17051
+"441","2 AVE","Wednesday",17888.5
+"442","33 ST","Friday",33415.75
+"443","33 ST","Monday",26258.5
+"444","33 ST","Saturday",15842
+"445","33 ST","Sunday",12743.25
+"446","33 ST","Thursday",35333.5
+"447","33 ST","Tuesday",33798.25
+"448","33 ST","Wednesday",34483.25
+"449","33 ST/RAWSON ST","Friday",14876.25
+"450","33 ST/RAWSON ST","Monday",12004
+"451","33 ST/RAWSON ST","Saturday",4615
+"452","33 ST/RAWSON ST","Sunday",2159
+"453","33 ST/RAWSON ST","Thursday",17627.5
+"454","33 ST/RAWSON ST","Tuesday",16599.5
+"455","33 ST/RAWSON ST","Wednesday",17521
+"456","34 ST-HERALD SQ","Friday",129548.5
+"457","34 ST-HERALD SQ","Monday",106377.5
+"458","34 ST-HERALD SQ","Saturday",76420.5
+"459","34 ST-HERALD SQ","Sunday",63861.5
+"460","34 ST-HERALD SQ","Thursday",128690.25
+"461","34 ST-HERALD SQ","Tuesday",126415.25
+"462","34 ST-HERALD SQ","Wednesday",129014.5
+"463","34 ST-PENN STA","Friday",179210
+"464","34 ST-PENN STA","Monday",158307.5
+"465","34 ST-PENN STA","Saturday",93174.5
+"466","34 ST-PENN STA","Sunday",84356.25
+"467","34 ST-PENN STA","Thursday",189348
+"468","34 ST-PENN STA","Tuesday",183072
+"469","34 ST-PENN STA","Wednesday",184575.75
+"470","36 ST","Friday",18313.5
+"471","36 ST","Monday",15697
+"472","36 ST","Saturday",9931.75
+"473","36 ST","Sunday",8445
+"474","36 ST","Thursday",18343.5
+"475","36 ST","Tuesday",18427.75
+"476","36 ST","Wednesday",18392.75
+"477","3 AVE","Friday",7725.5
+"478","3 AVE","Monday",5924
+"479","3 AVE","Saturday",6551.75
+"480","3 AVE","Sunday",5894.75
+"481","3 AVE","Thursday",7366
+"482","3 AVE","Tuesday",6959.25
+"483","3 AVE","Wednesday",7318.75
+"484","40 ST-LOWERY ST","Friday",11852
+"485","40 ST-LOWERY ST","Monday",10085.25
+"486","40 ST-LOWERY ST","Saturday",7403.5
+"487","40 ST-LOWERY ST","Sunday",6306.5
+"488","40 ST-LOWERY ST","Thursday",11986
+"489","40 ST-LOWERY ST","Tuesday",11874.75
+"490","40 ST-LOWERY ST","Wednesday",12012
+"491","42 ST-BRYANT PK","Friday",42380
+"492","42 ST-BRYANT PK","Monday",31442.5
+"493","42 ST-BRYANT PK","Saturday",16048.25
+"494","42 ST-BRYANT PK","Sunday",13455.75
+"495","42 ST-BRYANT PK","Thursday",43567
+"496","42 ST-BRYANT PK","Tuesday",41660
+"497","42 ST-BRYANT PK","Wednesday",44072.25
+"498","42 ST-GRD CNTRL","Friday",158067.25
+"499","42 ST-GRD CNTRL","Monday",125002
+"500","42 ST-GRD CNTRL","Saturday",61448.25
+"501","42 ST-GRD CNTRL","Sunday",50062.5
+"502","42 ST-GRD CNTRL","Thursday",167521.75
+"503","42 ST-GRD CNTRL","Tuesday",157918.75
+"504","42 ST-GRD CNTRL","Wednesday",165451.25
+"505","42 ST-PA BUS TE","Friday",103607.5
+"506","42 ST-PA BUS TE","Monday",92382.75
+"507","42 ST-PA BUS TE","Saturday",68092.5
+"508","42 ST-PA BUS TE","Sunday",63420.75
+"509","42 ST-PA BUS TE","Thursday",107020
+"510","42 ST-PA BUS TE","Tuesday",101795
+"511","42 ST-PA BUS TE","Wednesday",103282.75
+"512","42 ST-TIMES SQ","Friday",107765.25
+"513","42 ST-TIMES SQ","Monday",87198
+"514","42 ST-TIMES SQ","Saturday",66160.25
+"515","42 ST-TIMES SQ","Sunday",63107.25
+"516","42 ST-TIMES SQ","Thursday",107958.5
+"517","42 ST-TIMES SQ","Tuesday",100641.5
+"518","42 ST-TIMES SQ","Wednesday",109347
+"519","45 ST","Friday",7451.5
+"520","45 ST","Monday",6715.75
+"521","45 ST","Saturday",4942.5
+"522","45 ST","Sunday",4238.75
+"523","45 ST","Thursday",7406.25
+"524","45 ST","Tuesday",7498.75
+"525","45 ST","Wednesday",7540.75
+"526","46 ST","Friday",10072
+"527","46 ST","Monday",8446.75
+"528","46 ST","Saturday",4896
+"529","46 ST","Sunday",4649
+"530","46 ST","Thursday",10098
+"531","46 ST","Tuesday",10036.75
+"532","46 ST","Wednesday",10200.75
+"533","46 ST-BLISS ST","Friday",15343.25
+"534","46 ST-BLISS ST","Monday",13594.75
+"535","46 ST-BLISS ST","Saturday",11012.25
+"536","46 ST-BLISS ST","Sunday",9006
+"537","46 ST-BLISS ST","Thursday",15318
+"538","46 ST-BLISS ST","Tuesday",14933
+"539","46 ST-BLISS ST","Wednesday",15227.5
+"540","47-50 ST-ROCK","Friday",63143.25
+"541","47-50 ST-ROCK","Monday",46780.5
+"542","47-50 ST-ROCK","Saturday",21929.75
+"543","47-50 ST-ROCK","Sunday",17502
+"544","47-50 ST-ROCK","Thursday",63713.25
+"545","47-50 ST-ROCK","Tuesday",61275.75
+"546","47-50 ST-ROCK","Wednesday",64499.75
+"547","49 ST-7 AVE","Friday",28508.75
+"548","49 ST-7 AVE","Monday",21434.25
+"549","49 ST-7 AVE","Saturday",17781
+"550","49 ST-7 AVE","Sunday",16914
+"551","49 ST-7 AVE","Thursday",28136.75
+"552","49 ST-7 AVE","Tuesday",25720.75
+"553","49 ST-7 AVE","Wednesday",28618.5
+"554","50 ST","Friday",55547.5
+"555","50 ST","Monday",42864
+"556","50 ST","Saturday",32988
+"557","50 ST","Sunday",31672.75
+"558","50 ST","Thursday",55651
+"559","50 ST","Tuesday",50861
+"560","50 ST","Wednesday",56720.25
+"561","51 ST","Friday",24799.75
+"562","51 ST","Monday",17861.75
+"563","51 ST","Saturday",11293.75
+"564","51 ST","Sunday",9024.75
+"565","51 ST","Thursday",25266.5
+"566","51 ST","Tuesday",23491.75
+"567","51 ST","Wednesday",25098.25
+"568","52 ST-LINCOLN","Friday",7336
+"569","52 ST-LINCOLN","Monday",6453
+"570","52 ST-LINCOLN","Saturday",5035.75
+"571","52 ST-LINCOLN","Sunday",4309.75
+"572","52 ST-LINCOLN","Thursday",7385
+"573","52 ST-LINCOLN","Tuesday",7285
+"574","52 ST-LINCOLN","Wednesday",7373
+"575","53 ST","Friday",7685.5
+"576","53 ST","Monday",6933.25
+"577","53 ST","Saturday",4991.25
+"578","53 ST","Sunday",4252
+"579","53 ST","Thursday",7753.75
+"580","53 ST","Tuesday",7834.25
+"581","53 ST","Wednesday",7826.75
+"582","55 ST","Friday",2106.75
+"583","55 ST","Monday",1955.5
+"584","55 ST","Saturday",784.5
+"585","55 ST","Sunday",1105
+"586","55 ST","Thursday",2141.75
+"587","55 ST","Tuesday",2187.25
+"588","55 ST","Wednesday",2217.75
+"589","57 ST","Friday",16026.25
+"590","57 ST","Monday",11720.25
+"591","57 ST","Saturday",6305.5
+"592","57 ST","Sunday",5170
+"593","57 ST","Thursday",16226.25
+"594","57 ST","Tuesday",15491.75
+"595","57 ST","Wednesday",16409.5
+"596","57 ST-7 AVE","Friday",24789.75
+"597","57 ST-7 AVE","Monday",24733
+"598","57 ST-7 AVE","Saturday",24212.5
+"599","57 ST-7 AVE","Sunday",17365.75
+"600","57 ST-7 AVE","Thursday",31460.5
+"601","57 ST-7 AVE","Tuesday",29666
+"602","57 ST-7 AVE","Wednesday",31431.75
+"603","59 ST","Friday",13326.25
+"604","59 ST","Monday",11988
+"605","59 ST","Saturday",8379.5
+"606","59 ST","Sunday",7138.25
+"607","59 ST","Thursday",13413
+"608","59 ST","Tuesday",13604.25
+"609","59 ST","Wednesday",13669
+"610","59 ST-COLUMBUS","Friday",75547.75
+"611","59 ST-COLUMBUS","Monday",65127.75
+"612","59 ST-COLUMBUS","Saturday",47429.25
+"613","59 ST-COLUMBUS","Sunday",44973
+"614","59 ST-COLUMBUS","Thursday",79614.5
+"615","59 ST-COLUMBUS","Tuesday",77045.25
+"616","59 ST-COLUMBUS","Wednesday",81284.75
+"617","5 AVE-53 ST","Friday",27937.5
+"618","5 AVE-53 ST","Monday",20315.75
+"619","5 AVE-53 ST","Saturday",7769.25
+"620","5 AVE-53 ST","Sunday",6262
+"621","5 AVE-53 ST","Thursday",28166.25
+"622","5 AVE-53 ST","Tuesday",25578.75
+"623","5 AVE-53 ST","Wednesday",28468.75
+"624","5 AVE-59 ST","Friday",19135.25
+"625","5 AVE-59 ST","Monday",17450
+"626","5 AVE-59 ST","Saturday",13122.25
+"627","5 AVE-59 ST","Sunday",12858.5
+"628","5 AVE-59 ST","Thursday",19650.5
+"629","5 AVE-59 ST","Tuesday",19709.5
+"630","5 AVE-59 ST","Wednesday",20051.5
+"631","5 AVE-BRYANT PK","Friday",12555
+"632","5 AVE-BRYANT PK","Monday",9235.5
+"633","5 AVE-BRYANT PK","Saturday",5382.75
+"634","5 AVE-BRYANT PK","Sunday",3987.75
+"635","5 AVE-BRYANT PK","Thursday",12626.75
+"636","5 AVE-BRYANT PK","Tuesday",12159.75
+"637","5 AVE-BRYANT PK","Wednesday",12847.25
+"638","61 ST/WOODSIDE","Friday",17925.5
+"639","61 ST/WOODSIDE","Monday",16130.75
+"640","61 ST/WOODSIDE","Saturday",11913
+"641","61 ST/WOODSIDE","Sunday",10468.75
+"642","61 ST/WOODSIDE","Thursday",17747.75
+"643","61 ST/WOODSIDE","Tuesday",17664.5
+"644","61 ST/WOODSIDE","Wednesday",17836.5
+"645","63 DR-REGO PARK","Friday",17067.5
+"646","63 DR-REGO PARK","Monday",15273.75
+"647","63 DR-REGO PARK","Saturday",9819.5
+"648","63 DR-REGO PARK","Sunday",8815.25
+"649","63 DR-REGO PARK","Thursday",17386.75
+"650","63 DR-REGO PARK","Tuesday",17578
+"651","63 DR-REGO PARK","Wednesday",17776.25
+"652","65 ST","Friday",3802.75
+"653","65 ST","Monday",3301.25
+"654","65 ST","Saturday",1956
+"655","65 ST","Sunday",1748.75
+"656","65 ST","Thursday",3840.75
+"657","65 ST","Tuesday",3744.25
+"658","65 ST","Wednesday",3700
+"659","66 ST-LINCOLN","Friday",25649.75
+"660","66 ST-LINCOLN","Monday",19825.5
+"661","66 ST-LINCOLN","Saturday",17340.75
+"662","66 ST-LINCOLN","Sunday",15121
+"663","66 ST-LINCOLN","Thursday",25882.25
+"664","66 ST-LINCOLN","Tuesday",24254.25
+"665","66 ST-LINCOLN","Wednesday",26386
+"666","67 AVE","Friday",9670.5
+"667","67 AVE","Monday",8361.5
+"668","67 AVE","Saturday",4148
+"669","67 AVE","Sunday",3699.5
+"670","67 AVE","Thursday",9970.75
+"671","67 AVE","Tuesday",9983.75
+"672","67 AVE","Wednesday",10106.5
+"673","68ST-HUNTER COL","Friday",34578.5
+"674","68ST-HUNTER COL","Monday",29897.75
+"675","68ST-HUNTER COL","Saturday",15395.75
+"676","68ST-HUNTER COL","Sunday",12094.25
+"677","68ST-HUNTER COL","Thursday",39234.5
+"678","68ST-HUNTER COL","Tuesday",38007.25
+"679","68ST-HUNTER COL","Wednesday",38194.5
+"680","69 ST-FISK AVE","Friday",5472.75
+"681","69 ST-FISK AVE","Monday",5061.25
+"682","69 ST-FISK AVE","Saturday",4497
+"683","69 ST-FISK AVE","Sunday",3894.5
+"684","69 ST-FISK AVE","Thursday",5327.5
+"685","69 ST-FISK AVE","Tuesday",5419.75
+"686","69 ST-FISK AVE","Wednesday",5367.25
+"687","71 ST","Friday",4814.75
+"688","71 ST","Monday",4490.5
+"689","71 ST","Saturday",2993.25
+"690","71 ST","Sunday",2595.75
+"691","71 ST","Thursday",4874
+"692","71 ST","Tuesday",5036
+"693","71 ST","Wednesday",5015.25
+"694","72 ST","Friday",52927
+"695","72 ST","Monday",46076.25
+"696","72 ST","Saturday",36364
+"697","72 ST","Sunday",35809.75
+"698","72 ST","Thursday",53711
+"699","72 ST","Tuesday",52225.75
+"700","72 ST","Wednesday",53672.25
+"701","74 ST-BROADWAY","Friday",53013.75
+"702","74 ST-BROADWAY","Monday",48213.5
+"703","74 ST-BROADWAY","Saturday",38996.75
+"704","74 ST-BROADWAY","Sunday",33195.25
+"705","74 ST-BROADWAY","Thursday",53304.25
+"706","74 ST-BROADWAY","Tuesday",53415.75
+"707","74 ST-BROADWAY","Wednesday",53504
+"708","75 AVE","Friday",3678.25
+"709","75 AVE","Monday",3205
+"710","75 AVE","Saturday",1809.75
+"711","75 AVE","Sunday",1567.5
+"712","75 AVE","Thursday",3977.5
+"713","75 AVE","Tuesday",3943.25
+"714","75 AVE","Wednesday",3968.5
+"715","77 ST","Friday",44684
+"716","77 ST","Monday",35764.5
+"717","77 ST","Saturday",23547.75
+"718","77 ST","Sunday",19387.5
+"719","77 ST","Thursday",46983.25
+"720","77 ST","Tuesday",44725.5
+"721","77 ST","Wednesday",46355.5
+"722","79 ST","Friday",25083.75
+"723","79 ST","Monday",21136.5
+"724","79 ST","Saturday",16378
+"725","79 ST","Sunday",14734.25
+"726","79 ST","Thursday",25598.5
+"727","79 ST","Tuesday",24399.25
+"728","79 ST","Wednesday",25121
+"729","7 AVE","Friday",9887
+"730","7 AVE","Monday",8430.75
+"731","7 AVE","Saturday",5857.75
+"732","7 AVE","Sunday",4793.5
+"733","7 AVE","Thursday",10287
+"734","7 AVE","Tuesday",9990.5
+"735","7 AVE","Wednesday",10187.25
+"736","7 AVE-53 ST","Friday",17313.25
+"737","7 AVE-53 ST","Monday",13289.5
+"738","7 AVE-53 ST","Saturday",8017.5
+"739","7 AVE-53 ST","Sunday",7292.75
+"740","7 AVE-53 ST","Thursday",17758.5
+"741","7 AVE-53 ST","Tuesday",16208.5
+"742","7 AVE-53 ST","Wednesday",17819.5
+"743","7 AV-PARK SLOPE","Friday",12549.5
+"744","7 AV-PARK SLOPE","Monday",10857.25
+"745","7 AV-PARK SLOPE","Saturday",8066.5
+"746","7 AV-PARK SLOPE","Sunday",7133.75
+"747","7 AV-PARK SLOPE","Thursday",13121.5
+"748","7 AV-PARK SLOPE","Tuesday",12866.5
+"749","7 AV-PARK SLOPE","Wednesday",13175.5
+"750","81 ST-MUSEUM","Friday",14764.75
+"751","81 ST-MUSEUM","Monday",11872.75
+"752","81 ST-MUSEUM","Saturday",10269.5
+"753","81 ST-MUSEUM","Sunday",9606.75
+"754","81 ST-MUSEUM","Thursday",14646.75
+"755","81 ST-MUSEUM","Tuesday",13628.75
+"756","81 ST-MUSEUM","Wednesday",13986.5
+"757","82 ST-JACKSON H","Friday",16907
+"758","82 ST-JACKSON H","Monday",15416.5
+"759","82 ST-JACKSON H","Saturday",13468
+"760","82 ST-JACKSON H","Sunday",11522
+"761","82 ST-JACKSON H","Thursday",16521.25
+"762","82 ST-JACKSON H","Tuesday",16871.25
+"763","82 ST-JACKSON H","Wednesday",16459.5
+"764","86 ST","Friday",118022.25
+"765","86 ST","Monday",96697.75
+"766","86 ST","Saturday",70355.25
+"767","86 ST","Sunday",61393.75
+"768","86 ST","Thursday",119870
+"769","86 ST","Tuesday",116514.75
+"770","86 ST","Wednesday",119975
+"771","8 AVE","Friday",11010.25
+"772","8 AVE","Monday",11676.75
+"773","8 AVE","Saturday",9063.75
+"774","8 AVE","Sunday",9366.75
+"775","8 AVE","Thursday",11151
+"776","8 AVE","Tuesday",12314.75
+"777","8 AVE","Wednesday",11785.25
+"778","8 ST-B'WAY NYU","Friday",17366.75
+"779","8 ST-B'WAY NYU","Monday",13995.25
+"780","8 ST-B'WAY NYU","Saturday",12374
+"781","8 ST-B'WAY NYU","Sunday",11140.25
+"782","8 ST-B'WAY NYU","Thursday",17791.75
+"783","8 ST-B'WAY NYU","Tuesday",16989.5
+"784","8 ST-B'WAY NYU","Wednesday",17592.5
+"785","90 ST-ELMHURST","Friday",17283
+"786","90 ST-ELMHURST","Monday",15852
+"787","90 ST-ELMHURST","Saturday",13169.5
+"788","90 ST-ELMHURST","Sunday",11277.5
+"789","90 ST-ELMHURST","Thursday",17528
+"790","90 ST-ELMHURST","Tuesday",17361.25
+"791","90 ST-ELMHURST","Wednesday",17398.5
+"792","96 ST","Friday",79209.5
+"793","96 ST","Monday",66970.25
+"794","96 ST","Saturday",47591.25
+"795","96 ST","Sunday",43752
+"796","96 ST","Thursday",82091.5
+"797","96 ST","Tuesday",79907.5
+"798","96 ST","Wednesday",81763
+"799","9 AVE","Friday",6160.5
+"800","9 AVE","Monday",5801.5
+"801","9 AVE","Saturday",4213.5
+"802","9 AVE","Sunday",3686
+"803","9 AVE","Thursday",6303
+"804","9 AVE","Tuesday",6391.5
+"805","9 AVE","Wednesday",6316.75
+"806","9 ST","Friday",13848.75
+"807","9 ST","Monday",11481
+"808","9 ST","Saturday",8642
+"809","9 ST","Sunday",7713
+"810","9 ST","Thursday",13777.75
+"811","9 ST","Tuesday",13455.5
+"812","9 ST","Wednesday",13838
+"813","9TH STREET","Friday",4735.25
+"814","9TH STREET","Monday",5104.5
+"815","9TH STREET","Saturday",5589
+"816","9TH STREET","Sunday",5695.5
+"817","9TH STREET","Thursday",5672.5
+"818","9TH STREET","Tuesday",4950.75
+"819","9TH STREET","Wednesday",5022.75
+"820","ALABAMA AVE","Friday",2596
+"821","ALABAMA AVE","Monday",2335.75
+"822","ALABAMA AVE","Saturday",1820.25
+"823","ALABAMA AVE","Sunday",1376.5
+"824","ALABAMA AVE","Thursday",2622.25
+"825","ALABAMA AVE","Tuesday",2634.5
+"826","ALABAMA AVE","Wednesday",2688.25
+"827","ALLERTON AVE","Friday",6012.5
+"828","ALLERTON AVE","Monday",5329.25
+"829","ALLERTON AVE","Saturday",3915.75
+"830","ALLERTON AVE","Sunday",3123.25
+"831","ALLERTON AVE","Thursday",5887.25
+"832","ALLERTON AVE","Tuesday",5983
+"833","ALLERTON AVE","Wednesday",5998.5
+"834","AQUEDUCT-N CNDT","Friday",1147.25
+"835","AQUEDUCT-N CNDT","Monday",1161
+"836","AQUEDUCT-N CNDT","Saturday",830.75
+"837","AQUEDUCT-N CNDT","Sunday",694.5
+"838","AQUEDUCT-N CNDT","Thursday",1235.75
+"839","AQUEDUCT-N CNDT","Tuesday",1216.75
+"840","AQUEDUCT-N CNDT","Wednesday",1245.5
+"841","AQUEDUCT TRACK","Friday",1793
+"842","AQUEDUCT TRACK","Monday",1752.75
+"843","AQUEDUCT TRACK","Saturday",2124.75
+"844","AQUEDUCT TRACK","Sunday",2178.25
+"845","AQUEDUCT TRACK","Thursday",1823.25
+"846","AQUEDUCT TRACK","Tuesday",1378.25
+"847","AQUEDUCT TRACK","Wednesday",1711
+"848","ASTOR PLACE","Friday",18340.75
+"849","ASTOR PLACE","Monday",14599.25
+"850","ASTOR PLACE","Saturday",12589.5
+"851","ASTOR PLACE","Sunday",11002.25
+"852","ASTOR PLACE","Thursday",18433.75
+"853","ASTOR PLACE","Tuesday",17679
+"854","ASTOR PLACE","Wednesday",18218.75
+"855","ATLANTIC AVE","Friday",1879.75
+"856","ATLANTIC AVE","Monday",1626.75
+"857","ATLANTIC AVE","Saturday",1064.5
+"858","ATLANTIC AVE","Sunday",881.75
+"859","ATLANTIC AVE","Thursday",1841.25
+"860","ATLANTIC AVE","Tuesday",1886.75
+"861","ATLANTIC AVE","Wednesday",1871.75
+"862","AVE H","Friday",2923.25
+"863","AVE H","Monday",2883
+"864","AVE H","Saturday",1675
+"865","AVE H","Sunday",1504.75
+"866","AVE H","Thursday",3277.25
+"867","AVE H","Tuesday",3288
+"868","AVE H","Wednesday",3251
+"869","AVE I","Friday",2370.5
+"870","AVE I","Monday",2194.5
+"871","AVE I","Saturday",1082.25
+"872","AVE I","Sunday",1225.75
+"873","AVE I","Thursday",2484
+"874","AVE I","Tuesday",2464.5
+"875","AVE I","Wednesday",2481.25
+"876","AVE J","Friday",6147
+"877","AVE J","Monday",5979
+"878","AVE J","Saturday",3085
+"879","AVE J","Sunday",3309.25
+"880","AVE J","Thursday",6787.75
+"881","AVE J","Tuesday",6859
+"882","AVE J","Wednesday",6716.5
+"883","AVE M","Friday",6370.25
+"884","AVE M","Monday",5799.25
+"885","AVE M","Saturday",2109.5
+"886","AVE M","Sunday",2338
+"887","AVE M","Thursday",6732
+"888","AVE M","Tuesday",6865.5
+"889","AVE M","Wednesday",6638.5
+"890","AVE N","Friday",3566.75
+"891","AVE N","Monday",3365.25
+"892","AVE N","Saturday",1670.5
+"893","AVE N","Sunday",1770.25
+"894","AVE N","Thursday",3727
+"895","AVE N","Tuesday",3762
+"896","AVE N","Wednesday",3724
+"897","AVE P","Friday",2887
+"898","AVE P","Monday",2675.5
+"899","AVE P","Saturday",1515.75
+"900","AVE P","Sunday",1462.5
+"901","AVE P","Thursday",2940.75
+"902","AVE P","Tuesday",2960
+"903","AVE P","Wednesday",2996.25
+"904","AVE U","Friday",13463.5
+"905","AVE U","Monday",12593.5
+"906","AVE U","Saturday",8645.75
+"907","AVE U","Sunday",7633.5
+"908","AVE U","Thursday",13831.25
+"909","AVE U","Tuesday",14079.25
+"910","AVE U","Wednesday",14002.25
+"911","AVE X","Friday",3106
+"912","AVE X","Monday",2763.5
+"913","AVE X","Saturday",1690.25
+"914","AVE X","Sunday",1340.5
+"915","AVE X","Thursday",3288
+"916","AVE X","Tuesday",3278.25
+"917","AVE X","Wednesday",3273.25
+"918","BAY 50 ST","Friday",3081
+"919","BAY 50 ST","Monday",2772.5
+"920","BAY 50 ST","Saturday",1670.5
+"921","BAY 50 ST","Sunday",1330.25
+"922","BAY 50 ST","Thursday",3131
+"923","BAY 50 ST","Tuesday",3131
+"924","BAY 50 ST","Wednesday",3182.75
+"925","BAYCHESTER AVE","Friday",4519.75
+"926","BAYCHESTER AVE","Monday",4116.75
+"927","BAYCHESTER AVE","Saturday",1996.25
+"928","BAYCHESTER AVE","Sunday",1605
+"929","BAYCHESTER AVE","Thursday",4708.5
+"930","BAYCHESTER AVE","Tuesday",4866
+"931","BAYCHESTER AVE","Wednesday",4798.25
+"932","BAY PARKWAY","Friday",7680.25
+"933","BAY PARKWAY","Monday",7058.75
+"934","BAY PARKWAY","Saturday",5002
+"935","BAY PARKWAY","Sunday",4383
+"936","BAY PARKWAY","Thursday",7701.75
+"937","BAY PARKWAY","Tuesday",7887.75
+"938","BAY PARKWAY","Wednesday",7750
+"939","BAY PKY-22 AVE","Friday",7406.75
+"940","BAY PKY-22 AVE","Monday",7018.25
+"941","BAY PKY-22 AVE","Saturday",5064.25
+"942","BAY PKY-22 AVE","Sunday",4640.25
+"943","BAY PKY-22 AVE","Thursday",7578.25
+"944","BAY PKY-22 AVE","Tuesday",7734.25
+"945","BAY PKY-22 AVE","Wednesday",7739
+"946","BAY RIDGE-95 ST","Friday",6098.25
+"947","BAY RIDGE-95 ST","Monday",5407
+"948","BAY RIDGE-95 ST","Saturday",3384.75
+"949","BAY RIDGE-95 ST","Sunday",2766.75
+"950","BAY RIDGE-95 ST","Thursday",6420.5
+"951","BAY RIDGE-95 ST","Tuesday",6274
+"952","BAY RIDGE-95 ST","Wednesday",6380.25
+"953","BAY RIDGE AVE","Friday",8588.5
+"954","BAY RIDGE AVE","Monday",7573.25
+"955","BAY RIDGE AVE","Saturday",5065.75
+"956","BAY RIDGE AVE","Sunday",4252.25
+"957","BAY RIDGE AVE","Thursday",8786.5
+"958","BAY RIDGE AVE","Tuesday",8707.75
+"959","BAY RIDGE AVE","Wednesday",8706.5
+"960","BEACH 105 ST","Friday",269.75
+"961","BEACH 105 ST","Monday",424.5
+"962","BEACH 105 ST","Saturday",65
+"963","BEACH 105 ST","Sunday",82
+"964","BEACH 105 ST","Thursday",272
+"965","BEACH 105 ST","Tuesday",294.5
+"966","BEACH 105 ST","Wednesday",271.5
+"967","BEACH 25 ST","Friday",1837
+"968","BEACH 25 ST","Monday",1644
+"969","BEACH 25 ST","Saturday",859.75
+"970","BEACH 25 ST","Sunday",725.25
+"971","BEACH 25 ST","Thursday",1848.75
+"972","BEACH 25 ST","Tuesday",1921
+"973","BEACH 25 ST","Wednesday",1924.25
+"974","BEACH 36 ST","Friday",921
+"975","BEACH 36 ST","Monday",863.75
+"976","BEACH 36 ST","Saturday",525.5
+"977","BEACH 36 ST","Sunday",438.25
+"978","BEACH 36 ST","Thursday",923.5
+"979","BEACH 36 ST","Tuesday",954.75
+"980","BEACH 36 ST","Wednesday",939.5
+"981","BEACH 44 ST","Friday",601.25
+"982","BEACH 44 ST","Monday",565.5
+"983","BEACH 44 ST","Saturday",350.5
+"984","BEACH 44 ST","Sunday",296.25
+"985","BEACH 44 ST","Thursday",603.25
+"986","BEACH 44 ST","Tuesday",661.5
+"987","BEACH 44 ST","Wednesday",645
+"988","BEACH 60 ST","Friday",2610.25
+"989","BEACH 60 ST","Monday",2388
+"990","BEACH 60 ST","Saturday",1532.75
+"991","BEACH 60 ST","Sunday",1323.75
+"992","BEACH 60 ST","Thursday",2558
+"993","BEACH 60 ST","Tuesday",2572.75
+"994","BEACH 60 ST","Wednesday",2567
+"995","BEACH 67 ST","Friday",2210.75
+"996","BEACH 67 ST","Monday",2326
+"997","BEACH 67 ST","Saturday",1474
+"998","BEACH 67 ST","Sunday",1483.75
+"999","BEACH 67 ST","Thursday",2216.5
+"1000","BEACH 67 ST","Tuesday",2348.75
+"1001","BEACH 67 ST","Wednesday",2214
+"1002","BEACH 90 ST","Friday",834
+"1003","BEACH 90 ST","Monday",1151.25
+"1004","BEACH 90 ST","Saturday",384.25
+"1005","BEACH 90 ST","Sunday",418.5
+"1006","BEACH 90 ST","Thursday",766
+"1007","BEACH 90 ST","Tuesday",826.25
+"1008","BEACH 90 ST","Wednesday",790
+"1009","BEACH 98 ST","Friday",554.75
+"1010","BEACH 98 ST","Monday",1031.75
+"1011","BEACH 98 ST","Saturday",212.25
+"1012","BEACH 98 ST","Sunday",274.75
+"1013","BEACH 98 ST","Thursday",576.5
+"1014","BEACH 98 ST","Tuesday",597
+"1015","BEACH 98 ST","Wednesday",562
+"1016","BEDFORD AVE","Friday",29378
+"1017","BEDFORD AVE","Monday",26575.5
+"1018","BEDFORD AVE","Saturday",30834.25
+"1019","BEDFORD AVE","Sunday",29602.5
+"1020","BEDFORD AVE","Thursday",28620.75
+"1021","BEDFORD AVE","Tuesday",28102.75
+"1022","BEDFORD AVE","Wednesday",28752.25
+"1023","BEDFORD/NOSTRAN","Friday",8223.25
+"1024","BEDFORD/NOSTRAN","Monday",7059.75
+"1025","BEDFORD/NOSTRAN","Saturday",5451
+"1026","BEDFORD/NOSTRAN","Sunday",4932
+"1027","BEDFORD/NOSTRAN","Thursday",8360
+"1028","BEDFORD/NOSTRAN","Tuesday",8081.25
+"1029","BEDFORD/NOSTRAN","Wednesday",8122
+"1030","BEDFORD PARK BL","Friday",13460.5
+"1031","BEDFORD PARK BL","Monday",11494.75
+"1032","BEDFORD PARK BL","Saturday",7080.75
+"1033","BEDFORD PARK BL","Sunday",6116.75
+"1034","BEDFORD PARK BL","Thursday",13632.5
+"1035","BEDFORD PARK BL","Tuesday",13668.25
+"1036","BEDFORD PARK BL","Wednesday",13712.25
+"1037","BEEBE-39 AVE","Friday",3668
+"1038","BEEBE-39 AVE","Monday",3332.25
+"1039","BEEBE-39 AVE","Saturday",2545.75
+"1040","BEEBE-39 AVE","Sunday",2070.5
+"1041","BEEBE-39 AVE","Thursday",3939.75
+"1042","BEEBE-39 AVE","Tuesday",3826
+"1043","BEEBE-39 AVE","Wednesday",3700.75
+"1044","BERGEN ST","Friday",16318
+"1045","BERGEN ST","Monday",13710.5
+"1046","BERGEN ST","Saturday",10235
+"1047","BERGEN ST","Sunday",9110.75
+"1048","BERGEN ST","Thursday",16429
+"1049","BERGEN ST","Tuesday",16324.25
+"1050","BERGEN ST","Wednesday",16547
+"1051","BEVERLEY ROAD","Friday",2491.5
+"1052","BEVERLEY ROAD","Monday",2216.25
+"1053","BEVERLEY ROAD","Saturday",1625.5
+"1054","BEVERLEY ROAD","Sunday",1360.75
+"1055","BEVERLEY ROAD","Thursday",2546.25
+"1056","BEVERLEY ROAD","Tuesday",2540.5
+"1057","BEVERLEY ROAD","Wednesday",2519.5
+"1058","BEVERLY ROAD","Friday",4571.25
+"1059","BEVERLY ROAD","Monday",3082.25
+"1060","BEVERLY ROAD","Saturday",233
+"1061","BEVERLY ROAD","Sunday",0.25
+"1062","BEVERLY ROAD","Thursday",4647.5
+"1063","BEVERLY ROAD","Tuesday",4535.75
+"1064","BEVERLY ROAD","Wednesday",4630.5
+"1065","BLEECKER ST","Friday",15487.75
+"1066","BLEECKER ST","Monday",11813.5
+"1067","BLEECKER ST","Saturday",10484
+"1068","BLEECKER ST","Sunday",9424.75
+"1069","BLEECKER ST","Thursday",15503
+"1070","BLEECKER ST","Tuesday",14414.75
+"1071","BLEECKER ST","Wednesday",15266.5
+"1072","BOROUGH HALL/CT","Friday",40044.25
+"1073","BOROUGH HALL/CT","Monday",33012.75
+"1074","BOROUGH HALL/CT","Saturday",15582.75
+"1075","BOROUGH HALL/CT","Sunday",13238.5
+"1076","BOROUGH HALL/CT","Thursday",42347
+"1077","BOROUGH HALL/CT","Tuesday",42023.25
+"1078","BOROUGH HALL/CT","Wednesday",42649.5
+"1079","BOTANIC GARDEN","Friday",2087.5
+"1080","BOTANIC GARDEN","Monday",15688.5
+"1081","BOTANIC GARDEN","Saturday",14983.5
+"1082","BOTANIC GARDEN","Sunday",17542.75
+"1083","BOTANIC GARDEN","Thursday",2292.5
+"1084","BOTANIC GARDEN","Tuesday",4789.75
+"1085","BOTANIC GARDEN","Wednesday",2585.5
+"1086","BOWERY","Friday",3264.25
+"1087","BOWERY","Monday",2540.75
+"1088","BOWERY","Saturday",2358.25
+"1089","BOWERY","Sunday",2048.5
+"1090","BOWERY","Thursday",3164.5
+"1091","BOWERY","Tuesday",2944.5
+"1092","BOWERY","Wednesday",3092.25
+"1093","BOWLING GREEN","Friday",37870.25
+"1094","BOWLING GREEN","Monday",33591.75
+"1095","BOWLING GREEN","Saturday",16518
+"1096","BOWLING GREEN","Sunday",14202.5
+"1097","BOWLING GREEN","Thursday",39685.75
+"1098","BOWLING GREEN","Tuesday",37920
+"1099","BOWLING GREEN","Wednesday",42598.5
+"1100","BOYD-88 ST","Friday",2484.75
+"1101","BOYD-88 ST","Monday",2261.25
+"1102","BOYD-88 ST","Saturday",894.75
+"1103","BOYD-88 ST","Sunday",820.5
+"1104","BOYD-88 ST","Thursday",2581.5
+"1105","BOYD-88 ST","Tuesday",2593.5
+"1106","BOYD-88 ST","Wednesday",2633.5
+"1107","BRIGHTON BEACH","Friday",12306.25
+"1108","BRIGHTON BEACH","Monday",13075.75
+"1109","BRIGHTON BEACH","Saturday",6845.75
+"1110","BRIGHTON BEACH","Sunday",6457.5
+"1111","BRIGHTON BEACH","Thursday",14151.25
+"1112","BRIGHTON BEACH","Tuesday",14614.75
+"1113","BRIGHTON BEACH","Wednesday",14279.5
+"1114","BROAD CHANNEL","Friday",272.25
+"1115","BROAD CHANNEL","Monday",257.25
+"1116","BROAD CHANNEL","Saturday",114.5
+"1117","BROAD CHANNEL","Sunday",114
+"1118","BROAD CHANNEL","Thursday",308
+"1119","BROAD CHANNEL","Tuesday",294.25
+"1120","BROAD CHANNEL","Wednesday",289
+"1121","BROAD ST","Friday",6804.25
+"1122","BROAD ST","Monday",4843.75
+"1123","BROAD ST","Saturday",321.5
+"1124","BROAD ST","Sunday",4.75
+"1125","BROAD ST","Thursday",7151.25
+"1126","BROAD ST","Tuesday",7064.25
+"1127","BROAD ST","Wednesday",7145.5
+"1128","BROADWAY","Friday",3813.25
+"1129","BROADWAY","Monday",3496.25
+"1130","BROADWAY","Saturday",2512
+"1131","BROADWAY","Sunday",2271
+"1132","BROADWAY","Thursday",3917.25
+"1133","BROADWAY","Tuesday",3770.5
+"1134","BROADWAY","Wednesday",3767
+"1135","BROADWAY-31 ST","Friday",14010
+"1136","BROADWAY-31 ST","Monday",12576.25
+"1137","BROADWAY-31 ST","Saturday",17132.25
+"1138","BROADWAY-31 ST","Sunday",9359.5
+"1139","BROADWAY-31 ST","Thursday",11469.25
+"1140","BROADWAY-31 ST","Tuesday",14171.75
+"1141","BROADWAY-31 ST","Wednesday",14191.25
+"1142","BROADWAY-ENY","Friday",10485.25
+"1143","BROADWAY-ENY","Monday",10644.25
+"1144","BROADWAY-ENY","Saturday",9602.75
+"1145","BROADWAY-ENY","Sunday",9170
+"1146","BROADWAY-ENY","Thursday",10738.25
+"1147","BROADWAY-ENY","Tuesday",10605
+"1148","BROADWAY-ENY","Wednesday",10076.25
+"1149","BROADWAY/LAFAY","Friday",27590.5
+"1150","BROADWAY/LAFAY","Monday",21057.5
+"1151","BROADWAY/LAFAY","Saturday",16656.75
+"1152","BROADWAY/LAFAY","Sunday",13692.25
+"1153","BROADWAY/LAFAY","Thursday",26406.25
+"1154","BROADWAY/LAFAY","Tuesday",25663.25
+"1155","BROADWAY/LAFAY","Wednesday",26383.5
+"1156","BRONX PARK EAST","Friday",3191.5
+"1157","BRONX PARK EAST","Monday",2875.25
+"1158","BRONX PARK EAST","Saturday",1765.25
+"1159","BRONX PARK EAST","Sunday",1494
+"1160","BRONX PARK EAST","Thursday",3194
+"1161","BRONX PARK EAST","Tuesday",3277.75
+"1162","BRONX PARK EAST","Wednesday",3267.25
+"1163","BROOK AVE","Friday",6797.25
+"1164","BROOK AVE","Monday",6018.75
+"1165","BROOK AVE","Saturday",4465.5
+"1166","BROOK AVE","Sunday",3828
+"1167","BROOK AVE","Thursday",6676
+"1168","BROOK AVE","Tuesday",6609.75
+"1169","BROOK AVE","Wednesday",6714.25
+"1170","BROOKLYN BRIDGE","Friday",37980.75
+"1171","BROOKLYN BRIDGE","Monday",32250.75
+"1172","BROOKLYN BRIDGE","Saturday",15932.75
+"1173","BROOKLYN BRIDGE","Sunday",13268.75
+"1174","BROOKLYN BRIDGE","Thursday",39618
+"1175","BROOKLYN BRIDGE","Tuesday",41012.25
+"1176","BROOKLYN BRIDGE","Wednesday",40898.5
+"1177","BUHRE AVE","Friday",4048.75
+"1178","BUHRE AVE","Monday",3457.25
+"1179","BUHRE AVE","Saturday",1908.5
+"1180","BUHRE AVE","Sunday",1483
+"1181","BUHRE AVE","Thursday",4067
+"1182","BUHRE AVE","Tuesday",4127.25
+"1183","BUHRE AVE","Wednesday",4079.75
+"1184","BURKE AVE","Friday",3905
+"1185","BURKE AVE","Monday",3487.5
+"1186","BURKE AVE","Saturday",2322.25
+"1187","BURKE AVE","Sunday",1962
+"1188","BURKE AVE","Thursday",3898.25
+"1189","BURKE AVE","Tuesday",3919
+"1190","BURKE AVE","Wednesday",3878.25
+"1191","BURNSIDE AVE","Friday",11711.75
+"1192","BURNSIDE AVE","Monday",10480.25
+"1193","BURNSIDE AVE","Saturday",6953.5
+"1194","BURNSIDE AVE","Sunday",5459.25
+"1195","BURNSIDE AVE","Thursday",12053.5
+"1196","BURNSIDE AVE","Tuesday",12042
+"1197","BURNSIDE AVE","Wednesday",12265.75
+"1198","BUSHWICK AVE","Friday",1750
+"1199","BUSHWICK AVE","Monday",1651.25
+"1200","BUSHWICK AVE","Saturday",1524.75
+"1201","BUSHWICK AVE","Sunday",1412.75
+"1202","BUSHWICK AVE","Thursday",1766
+"1203","BUSHWICK AVE","Tuesday",1762.25
+"1204","BUSHWICK AVE","Wednesday",1762
+"1205","CANAL ST","Friday",74569.25
+"1206","CANAL ST","Monday",62383
+"1207","CANAL ST","Saturday",50505.25
+"1208","CANAL ST","Sunday",43914.75
+"1209","CANAL ST","Thursday",73428.5
+"1210","CANAL ST","Tuesday",72233
+"1211","CANAL ST","Wednesday",73421.5
+"1212","CARROLL ST","Friday",12124.5
+"1213","CARROLL ST","Monday",10232
+"1214","CARROLL ST","Saturday",6595
+"1215","CARROLL ST","Sunday",5869.75
+"1216","CARROLL ST","Thursday",12756.25
+"1217","CARROLL ST","Tuesday",12351
+"1218","CARROLL ST","Wednesday",12658.25
+"1219","CASTLE HILL AVE","Friday",6244.75
+"1220","CASTLE HILL AVE","Monday",5054.25
+"1221","CASTLE HILL AVE","Saturday",2888.5
+"1222","CASTLE HILL AVE","Sunday",2406.25
+"1223","CASTLE HILL AVE","Thursday",6280.5
+"1224","CASTLE HILL AVE","Tuesday",6095
+"1225","CASTLE HILL AVE","Wednesday",6265.75
+"1226","CATHEDRL-110 ST","Friday",7729.25
+"1227","CATHEDRL-110 ST","Monday",6709.5
+"1228","CATHEDRL-110 ST","Saturday",5349.25
+"1229","CATHEDRL-110 ST","Sunday",5262.5
+"1230","CATHEDRL-110 ST","Thursday",7749.5
+"1231","CATHEDRL-110 ST","Tuesday",7714
+"1232","CATHEDRL-110 ST","Wednesday",7861.5
+"1233","CENTRAL AVE","Friday",3284.25
+"1234","CENTRAL AVE","Monday",2293.25
+"1235","CENTRAL AVE","Saturday",383.5
+"1236","CENTRAL AVE","Sunday",224.5
+"1237","CENTRAL AVE","Thursday",3343
+"1238","CENTRAL AVE","Tuesday",3219
+"1239","CENTRAL AVE","Wednesday",3338
+"1240","CHAMBERS ST","Friday",78757.75
+"1241","CHAMBERS ST","Monday",65315
+"1242","CHAMBERS ST","Saturday",31617.5
+"1243","CHAMBERS ST","Sunday",24830
+"1244","CHAMBERS ST","Thursday",83754.25
+"1245","CHAMBERS ST","Tuesday",83155.75
+"1246","CHAMBERS ST","Wednesday",84173
+"1247","CHAUNCEY ST","Friday",3198.75
+"1248","CHAUNCEY ST","Monday",2315.75
+"1249","CHAUNCEY ST","Saturday",616
+"1250","CHAUNCEY ST","Sunday",398.5
+"1251","CHAUNCEY ST","Thursday",3140
+"1252","CHAUNCEY ST","Tuesday",3128.5
+"1253","CHAUNCEY ST","Wednesday",3210.75
+"1254","CHRISTOPHER ST","Friday",16200.25
+"1255","CHRISTOPHER ST","Monday",13260.75
+"1256","CHRISTOPHER ST","Saturday",13483.75
+"1257","CHRISTOPHER ST","Sunday",14135.25
+"1258","CHRISTOPHER ST","Thursday",15459.25
+"1259","CHRISTOPHER ST","Tuesday",15053.75
+"1260","CHRISTOPHER ST","Wednesday",15748.75
+"1261","CHURCH AVE","Friday",39683.5
+"1262","CHURCH AVE","Monday",34375.5
+"1263","CHURCH AVE","Saturday",20550
+"1264","CHURCH AVE","Sunday",17387.5
+"1265","CHURCH AVE","Thursday",39852
+"1266","CHURCH AVE","Tuesday",39688
+"1267","CHURCH AVE","Wednesday",40097
+"1268","CLARK ST","Friday",6680.5
+"1269","CLARK ST","Monday",5542
+"1270","CLARK ST","Saturday",4541.25
+"1271","CLARK ST","Sunday",4400.25
+"1272","CLARK ST","Thursday",6495.5
+"1273","CLARK ST","Tuesday",6097.25
+"1274","CLARK ST","Wednesday",6478.25
+"1275","CLASSON AVE","Friday",4759.5
+"1276","CLASSON AVE","Monday",3995.5
+"1277","CLASSON AVE","Saturday",2979.75
+"1278","CLASSON AVE","Sunday",2701.5
+"1279","CLASSON AVE","Thursday",4778.75
+"1280","CLASSON AVE","Tuesday",4571
+"1281","CLASSON AVE","Wednesday",4707.25
+"1282","CLEVELAND ST","Friday",3739.25
+"1283","CLEVELAND ST","Monday",3337
+"1284","CLEVELAND ST","Saturday",2297
+"1285","CLEVELAND ST","Sunday",1895.5
+"1286","CLEVELAND ST","Thursday",3629.25
+"1287","CLEVELAND ST","Tuesday",3745.75
+"1288","CLEVELAND ST","Wednesday",3740
+"1289","CLINTON-WASH AV","Friday",12009.25
+"1290","CLINTON-WASH AV","Monday",10126.25
+"1291","CLINTON-WASH AV","Saturday",7501.5
+"1292","CLINTON-WASH AV","Sunday",6373.25
+"1293","CLINTON-WASH AV","Thursday",12252.25
+"1294","CLINTON-WASH AV","Tuesday",11735.5
+"1295","CLINTON-WASH AV","Wednesday",12087.5
+"1296","CORTELYOU ROAD","Friday",5465
+"1297","CORTELYOU ROAD","Monday",4869.75
+"1298","CORTELYOU ROAD","Saturday",3654
+"1299","CORTELYOU ROAD","Sunday",3110.75
+"1300","CORTELYOU ROAD","Thursday",5541.25
+"1301","CORTELYOU ROAD","Tuesday",5505.25
+"1302","CORTELYOU ROAD","Wednesday",5541.5
+"1303","CORTLANDT ST","Friday",5584
+"1304","CORTLANDT ST","Monday",3422.25
+"1305","CORTLANDT ST","Saturday",149
+"1306","CORTLANDT ST","Sunday",0
+"1307","CORTLANDT ST","Thursday",5096
+"1308","CORTLANDT ST","Tuesday",4750.75
+"1309","CORTLANDT ST","Wednesday",13337
+"1310","COURT SQ","Friday",21887.75
+"1311","COURT SQ","Monday",18332.5
+"1312","COURT SQ","Saturday",8684
+"1313","COURT SQ","Sunday",7259.5
+"1314","COURT SQ","Thursday",24342
+"1315","COURT SQ","Tuesday",23105
+"1316","COURT SQ","Wednesday",23814.25
+"1317","CRESCENT ST","Friday",5105.5
+"1318","CRESCENT ST","Monday",4615
+"1319","CRESCENT ST","Saturday",3287.25
+"1320","CRESCENT ST","Sunday",2718
+"1321","CRESCENT ST","Thursday",5117
+"1322","CRESCENT ST","Tuesday",5163.5
+"1323","CRESCENT ST","Wednesday",5122
+"1324","CROWN HTS-UTICA","Friday",29654.5
+"1325","CROWN HTS-UTICA","Monday",20075.75
+"1326","CROWN HTS-UTICA","Saturday",1515.5
+"1327","CROWN HTS-UTICA","Sunday",3.5
+"1328","CROWN HTS-UTICA","Thursday",29565.5
+"1329","CROWN HTS-UTICA","Tuesday",29005.5
+"1330","CROWN HTS-UTICA","Wednesday",29860.75
+"1331","CYPRESS AVE","Friday",4318
+"1332","CYPRESS AVE","Monday",3660.5
+"1333","CYPRESS AVE","Saturday",2407
+"1334","CYPRESS AVE","Sunday",1910.25
+"1335","CYPRESS AVE","Thursday",4263.75
+"1336","CYPRESS AVE","Tuesday",4278.5
+"1337","CYPRESS AVE","Wednesday",4252.75
+"1338","CYPRESS HILLS","Friday",1541.5
+"1339","CYPRESS HILLS","Monday",1378
+"1340","CYPRESS HILLS","Saturday",850.75
+"1341","CYPRESS HILLS","Sunday",728
+"1342","CYPRESS HILLS","Thursday",1541
+"1343","CYPRESS HILLS","Tuesday",1565.5
+"1344","CYPRESS HILLS","Wednesday",1574.75
+"1345","DEKALB AVE","Friday",30216.75
+"1346","DEKALB AVE","Monday",26978
+"1347","DEKALB AVE","Saturday",19221.75
+"1348","DEKALB AVE","Sunday",16759.5
+"1349","DEKALB AVE","Thursday",30602.5
+"1350","DEKALB AVE","Tuesday",30841.5
+"1351","DEKALB AVE","Wednesday",30923.5
+"1352","DELANCEY ST","Friday",26714.25
+"1353","DELANCEY ST","Monday",21086.25
+"1354","DELANCEY ST","Saturday",16837.75
+"1355","DELANCEY ST","Sunday",14523.5
+"1356","DELANCEY ST","Thursday",26012.25
+"1357","DELANCEY ST","Tuesday",24810.75
+"1358","DELANCEY ST","Wednesday",25797.25
+"1359","DITMARS BL-31 S","Friday",17813.5
+"1360","DITMARS BL-31 S","Monday",15584
+"1361","DITMARS BL-31 S","Saturday",11089.25
+"1362","DITMARS BL-31 S","Sunday",9570.5
+"1363","DITMARS BL-31 S","Thursday",18166.25
+"1364","DITMARS BL-31 S","Tuesday",18045.75
+"1365","DITMARS BL-31 S","Wednesday",18117.5
+"1366","DITMAS AVE","Friday",4883.75
+"1367","DITMAS AVE","Monday",4546.25
+"1368","DITMAS AVE","Saturday",2566
+"1369","DITMAS AVE","Sunday",2505
+"1370","DITMAS AVE","Thursday",4991.75
+"1371","DITMAS AVE","Tuesday",5062.75
+"1372","DITMAS AVE","Wednesday",5070.75
+"1373","DYCKMAN-200 ST","Friday",7063.5
+"1374","DYCKMAN-200 ST","Monday",6351.5
+"1375","DYCKMAN-200 ST","Saturday",4851.75
+"1376","DYCKMAN-200 ST","Sunday",4292.25
+"1377","DYCKMAN-200 ST","Thursday",7038
+"1378","DYCKMAN-200 ST","Tuesday",7132.25
+"1379","DYCKMAN-200 ST","Wednesday",7064.5
+"1380","DYCKMAN ST","Friday",7670.75
+"1381","DYCKMAN ST","Monday",6987
+"1382","DYCKMAN ST","Saturday",5395.5
+"1383","DYCKMAN ST","Sunday",4821.5
+"1384","DYCKMAN ST","Thursday",7527.5
+"1385","DYCKMAN ST","Tuesday",7718.25
+"1386","DYCKMAN ST","Wednesday",7678.25
+"1387","DYRE AVE","Friday",5186.5
+"1388","DYRE AVE","Monday",4523.25
+"1389","DYRE AVE","Saturday",2200.25
+"1390","DYRE AVE","Sunday",1585.25
+"1391","DYRE AVE","Thursday",5449.5
+"1392","DYRE AVE","Tuesday",5521
+"1393","DYRE AVE","Wednesday",5552.5
+"1394","E 143 ST","Friday",998.25
+"1395","E 143 ST","Monday",857.5
+"1396","E 143 ST","Saturday",477.75
+"1397","E 143 ST","Sunday",412.75
+"1398","E 143 ST","Thursday",995.5
+"1399","E 143 ST","Tuesday",1005
+"1400","E 143 ST","Wednesday",1021.25
+"1401","E 149 ST","Friday",5022.75
+"1402","E 149 ST","Monday",4274.75
+"1403","E 149 ST","Saturday",2972.5
+"1404","E 149 ST","Sunday",2483.25
+"1405","E 149 ST","Thursday",4844.75
+"1406","E 149 ST","Tuesday",4955.5
+"1407","E 149 ST","Wednesday",4986.75
+"1408","E 177 ST-PARKCH","Friday",17444
+"1409","E 177 ST-PARKCH","Monday",15713.75
+"1410","E 177 ST-PARKCH","Saturday",10566
+"1411","E 177 ST-PARKCH","Sunday",8759.5
+"1412","E 177 ST-PARKCH","Thursday",17441.75
+"1413","E 177 ST-PARKCH","Tuesday",17810.5
+"1414","E 177 ST-PARKCH","Wednesday",17796.75
+"1415","E 180 ST","Friday",7718
+"1416","E 180 ST","Monday",6880
+"1417","E 180 ST","Saturday",4395.25
+"1418","E 180 ST","Sunday",3602.25
+"1419","E 180 ST","Thursday",7961
+"1420","E 180 ST","Tuesday",8020.75
+"1421","E 180 ST","Wednesday",8258
+"1422","EAST 105 ST","Friday",4160.75
+"1423","EAST 105 ST","Monday",3541
+"1424","EAST 105 ST","Saturday",2127.5
+"1425","EAST 105 ST","Sunday",1788.5
+"1426","EAST 105 ST","Thursday",4072.25
+"1427","EAST 105 ST","Tuesday",4078.5
+"1428","EAST 105 ST","Wednesday",4119
+"1429","EAST BROADWAY","Friday",14215.5
+"1430","EAST BROADWAY","Monday",12526
+"1431","EAST BROADWAY","Saturday",9479
+"1432","EAST BROADWAY","Sunday",7708
+"1433","EAST BROADWAY","Thursday",14147.5
+"1434","EAST BROADWAY","Tuesday",14170.75
+"1435","EAST BROADWAY","Wednesday",14191.25
+"1436","EASTERN PKWY","Friday",5480.75
+"1437","EASTERN PKWY","Monday",4173.25
+"1438","EASTERN PKWY","Saturday",5004
+"1439","EASTERN PKWY","Sunday",4726.5
+"1440","EASTERN PKWY","Thursday",5435
+"1441","EASTERN PKWY","Tuesday",5887.25
+"1442","EASTERN PKWY","Wednesday",5628.75
+"1443","ELDER AVE","Friday",6138.5
+"1444","ELDER AVE","Monday",6217
+"1445","ELDER AVE","Saturday",5481.75
+"1446","ELDER AVE","Sunday",3679.75
+"1447","ELDER AVE","Thursday",6870.75
+"1448","ELDER AVE","Tuesday",6821
+"1449","ELDER AVE","Wednesday",6964.25
+"1450","ELDERTS LANE","Friday",3880.5
+"1451","ELDERTS LANE","Monday",3513.75
+"1452","ELDERTS LANE","Saturday",2147.5
+"1453","ELDERTS LANE","Sunday",1761.5
+"1454","ELDERTS LANE","Thursday",4027.25
+"1455","ELDERTS LANE","Tuesday",4065.25
+"1456","ELDERTS LANE","Wednesday",4152.25
+"1457","ELMHURST AVE","Friday",13912
+"1458","ELMHURST AVE","Monday",12536.5
+"1459","ELMHURST AVE","Saturday",8606.25
+"1460","ELMHURST AVE","Sunday",7603.75
+"1461","ELMHURST AVE","Thursday",13669
+"1462","ELMHURST AVE","Tuesday",14032.25
+"1463","ELMHURST AVE","Wednesday",13989
+"1464","E TREMONT AVE","Friday",8624.75
+"1465","E TREMONT AVE","Monday",7998.25
+"1466","E TREMONT AVE","Saturday",5801.75
+"1467","E TREMONT AVE","Sunday",4930.5
+"1468","E TREMONT AVE","Thursday",8563.5
+"1469","E TREMONT AVE","Tuesday",8872
+"1470","E TREMONT AVE","Wednesday",9352.5
+"1471","EUCLID AVE","Friday",11352.25
+"1472","EUCLID AVE","Monday",10107
+"1473","EUCLID AVE","Saturday",6357.5
+"1474","EUCLID AVE","Sunday",5286
+"1475","EUCLID AVE","Thursday",11353.25
+"1476","EUCLID AVE","Tuesday",11238.75
+"1477","EUCLID AVE","Wednesday",11618.75
+"1478","EXCHANGE PLACE","Friday",14410.25
+"1479","EXCHANGE PLACE","Monday",12066
+"1480","EXCHANGE PLACE","Saturday",160.5
+"1481","EXCHANGE PLACE","Sunday",0
+"1482","EXCHANGE PLACE","Thursday",15387.75
+"1483","EXCHANGE PLACE","Tuesday",15706
+"1484","EXCHANGE PLACE","Wednesday",15509.25
+"1485","FAR ROCKAWAY","Friday",5014
+"1486","FAR ROCKAWAY","Monday",4542.75
+"1487","FAR ROCKAWAY","Saturday",2865.25
+"1488","FAR ROCKAWAY","Sunday",2513.75
+"1489","FAR ROCKAWAY","Thursday",4972.25
+"1490","FAR ROCKAWAY","Tuesday",5010
+"1491","FAR ROCKAWAY","Wednesday",4980.75
+"1492","FLATBUSH AVE","Friday",22088
+"1493","FLATBUSH AVE","Monday",16742
+"1494","FLATBUSH AVE","Saturday",598
+"1495","FLATBUSH AVE","Sunday",5.25
+"1496","FLATBUSH AVE","Thursday",23758
+"1497","FLATBUSH AVE","Tuesday",23108
+"1498","FLATBUSH AVE","Wednesday",23985.5
+"1499","FLUSHING AVE","Friday",12376.75
+"1500","FLUSHING AVE","Monday",9588.25
+"1501","FLUSHING AVE","Saturday",3189.5
+"1502","FLUSHING AVE","Sunday",2551.5
+"1503","FLUSHING AVE","Thursday",12342.75
+"1504","FLUSHING AVE","Tuesday",12268.25
+"1505","FLUSHING AVE","Wednesday",12355.75
+"1506","FORDHAM ROAD","Friday",25086.25
+"1507","FORDHAM ROAD","Monday",22410.75
+"1508","FORDHAM ROAD","Saturday",16898
+"1509","FORDHAM ROAD","Sunday",14587.75
+"1510","FORDHAM ROAD","Thursday",25506.25
+"1511","FORDHAM ROAD","Tuesday",25498.25
+"1512","FORDHAM ROAD","Wednesday",25885.25
+"1513","FOREST AVE","Friday",4303.25
+"1514","FOREST AVE","Monday",3158
+"1515","FOREST AVE","Saturday",443.25
+"1516","FOREST AVE","Sunday",290.75
+"1517","FOREST AVE","Thursday",4365.75
+"1518","FOREST AVE","Tuesday",4321.25
+"1519","FOREST AVE","Wednesday",4336.75
+"1520","FOREST HILLS-71","Friday",28836.25
+"1521","FOREST HILLS-71","Monday",24929.5
+"1522","FOREST HILLS-71","Saturday",14810.5
+"1523","FOREST HILLS-71","Sunday",12318
+"1524","FOREST HILLS-71","Thursday",29839
+"1525","FOREST HILLS-71","Tuesday",29702.5
+"1526","FOREST HILLS-71","Wednesday",30001.5
+"1527","FOREST PARKWAY","Friday",4002.75
+"1528","FOREST PARKWAY","Monday",3557.25
+"1529","FOREST PARKWAY","Saturday",2335.75
+"1530","FOREST PARKWAY","Sunday",1847.5
+"1531","FOREST PARKWAY","Thursday",4041.25
+"1532","FOREST PARKWAY","Tuesday",4133.25
+"1533","FOREST PARKWAY","Wednesday",4035.75
+"1534","FRANKLIN AVE","Friday",21315
+"1535","FRANKLIN AVE","Monday",28824.25
+"1536","FRANKLIN AVE","Saturday",42288.5
+"1537","FRANKLIN AVE","Sunday",36442
+"1538","FRANKLIN AVE","Thursday",21487.5
+"1539","FRANKLIN AVE","Tuesday",22610.5
+"1540","FRANKLIN AVE","Wednesday",21502.75
+"1541","FRANKLIN ST","Friday",6059.75
+"1542","FRANKLIN ST","Monday",4845.75
+"1543","FRANKLIN ST","Saturday",2738.5
+"1544","FRANKLIN ST","Sunday",2556.75
+"1545","FRANKLIN ST","Thursday",6351
+"1546","FRANKLIN ST","Tuesday",6073.25
+"1547","FRANKLIN ST","Wednesday",6246.5
+"1548","FREEMAN ST","Friday",5171.25
+"1549","FREEMAN ST","Monday",4616
+"1550","FREEMAN ST","Saturday",3193.5
+"1551","FREEMAN ST","Sunday",2660.5
+"1552","FREEMAN ST","Thursday",5172
+"1553","FREEMAN ST","Tuesday",5270.75
+"1554","FREEMAN ST","Wednesday",5237.5
+"1555","FRESH POND ROAD","Friday",5817.25
+"1556","FRESH POND ROAD","Monday",4340.75
+"1557","FRESH POND ROAD","Saturday",671.5
+"1558","FRESH POND ROAD","Sunday",433.5
+"1559","FRESH POND ROAD","Thursday",5901
+"1560","FRESH POND ROAD","Tuesday",5862.25
+"1561","FRESH POND ROAD","Wednesday",5880
+"1562","FT HAMILTON PKY","Friday",17518.5
+"1563","FT HAMILTON PKY","Monday",15900
+"1564","FT HAMILTON PKY","Saturday",9899.25
+"1565","FT HAMILTON PKY","Sunday",8751
+"1566","FT HAMILTON PKY","Thursday",17980.75
+"1567","FT HAMILTON PKY","Tuesday",18344.25
+"1568","FT HAMILTON PKY","Wednesday",18158.5
+"1569","FULTON ST","Friday",74047
+"1570","FULTON ST","Monday",60732
+"1571","FULTON ST","Saturday",30115.5
+"1572","FULTON ST","Sunday",23641.75
+"1573","FULTON ST","Thursday",76184.75
+"1574","FULTON ST","Tuesday",75240.25
+"1575","FULTON ST","Wednesday",76751.5
+"1576","GATES AVE","Friday",6693.25
+"1577","GATES AVE","Monday",4793.5
+"1578","GATES AVE","Saturday",1272
+"1579","GATES AVE","Sunday",813.75
+"1580","GATES AVE","Thursday",6567.25
+"1581","GATES AVE","Tuesday",6493.75
+"1582","GATES AVE","Wednesday",6659.25
+"1583","GRAHAM AVE","Friday",10684.5
+"1584","GRAHAM AVE","Monday",9420.5
+"1585","GRAHAM AVE","Saturday",7614
+"1586","GRAHAM AVE","Sunday",6358.75
+"1587","GRAHAM AVE","Thursday",11138.75
+"1588","GRAHAM AVE","Tuesday",10830.5
+"1589","GRAHAM AVE","Wednesday",11096.75
+"1590","GRAND-30 AVE","Friday",15494.75
+"1591","GRAND-30 AVE","Monday",13769.75
+"1592","GRAND-30 AVE","Saturday",11085.75
+"1593","GRAND-30 AVE","Sunday",9617.25
+"1594","GRAND-30 AVE","Thursday",15593.5
+"1595","GRAND-30 AVE","Tuesday",15662.5
+"1596","GRAND-30 AVE","Wednesday",15746.75
+"1597","GRAND ARMY PLAZ","Friday",8220.75
+"1598","GRAND ARMY PLAZ","Monday",7052.5
+"1599","GRAND ARMY PLAZ","Saturday",4701.75
+"1600","GRAND ARMY PLAZ","Sunday",4108.75
+"1601","GRAND ARMY PLAZ","Thursday",8650.25
+"1602","GRAND ARMY PLAZ","Tuesday",8585
+"1603","GRAND ARMY PLAZ","Wednesday",8718.25
+"1604","GRAND AV-NEWTON","Friday",18741
+"1605","GRAND AV-NEWTON","Monday",16718.75
+"1606","GRAND AV-NEWTON","Saturday",11286.25
+"1607","GRAND AV-NEWTON","Sunday",9744.5
+"1608","GRAND AV-NEWTON","Thursday",18671.5
+"1609","GRAND AV-NEWTON","Tuesday",18920.75
+"1610","GRAND AV-NEWTON","Wednesday",18957.25
+"1611","GRAND ST","Friday",34066
+"1612","GRAND ST","Monday",30057.5
+"1613","GRAND ST","Saturday",23934.5
+"1614","GRAND ST","Sunday",21722
+"1615","GRAND ST","Thursday",32957
+"1616","GRAND ST","Tuesday",33715
+"1617","GRAND ST","Wednesday",33912
+"1618","GRANT AVE","Friday",6755.5
+"1619","GRANT AVE","Monday",6175
+"1620","GRANT AVE","Saturday",4075.5
+"1621","GRANT AVE","Sunday",3351.5
+"1622","GRANT AVE","Thursday",6778.25
+"1623","GRANT AVE","Tuesday",6891.75
+"1624","GRANT AVE","Wednesday",6946.25
+"1625","GREENPOINT AVE","Friday",8893
+"1626","GREENPOINT AVE","Monday",7264.25
+"1627","GREENPOINT AVE","Saturday",5357.75
+"1628","GREENPOINT AVE","Sunday",4145.25
+"1629","GREENPOINT AVE","Thursday",8919.5
+"1630","GREENPOINT AVE","Tuesday",8610
+"1631","GREENPOINT AVE","Wednesday",8825.5
+"1632","GREENWOOD-111","Friday",2835
+"1633","GREENWOOD-111","Monday",2490.5
+"1634","GREENWOOD-111","Saturday",931.25
+"1635","GREENWOOD-111","Sunday",655.75
+"1636","GREENWOOD-111","Thursday",2965.75
+"1637","GREENWOOD-111","Tuesday",2985.75
+"1638","GREENWOOD-111","Wednesday",2999.75
+"1639","GROVE STREET","Friday",16818.75
+"1640","GROVE STREET","Monday",14219.5
+"1641","GROVE STREET","Saturday",9352.25
+"1642","GROVE STREET","Sunday",7254.5
+"1643","GROVE STREET","Thursday",17400.75
+"1644","GROVE STREET","Tuesday",17201
+"1645","GROVE STREET","Wednesday",17275.75
+"1646","GUN HILL ROAD","Friday",14557.25
+"1647","GUN HILL ROAD","Monday",12957.75
+"1648","GUN HILL ROAD","Saturday",8161.25
+"1649","GUN HILL ROAD","Sunday",6563.25
+"1650","GUN HILL ROAD","Thursday",14731.25
+"1651","GUN HILL ROAD","Tuesday",14924.5
+"1652","GUN HILL ROAD","Wednesday",14888
+"1653","HALSEY ST","Friday",14544
+"1654","HALSEY ST","Monday",11821
+"1655","HALSEY ST","Saturday",6828.25
+"1656","HALSEY ST","Sunday",5839.75
+"1657","HALSEY ST","Thursday",14456.25
+"1658","HALSEY ST","Tuesday",14296.5
+"1659","HALSEY ST","Wednesday",14517.25
+"1660","HARRISON","Friday",7007.5
+"1661","HARRISON","Monday",6278.25
+"1662","HARRISON","Saturday",3385.75
+"1663","HARRISON","Sunday",2383.25
+"1664","HARRISON","Thursday",7407
+"1665","HARRISON","Tuesday",7694.5
+"1666","HARRISON","Wednesday",7631.25
+"1667","HEWES ST","Friday",3031.25
+"1668","HEWES ST","Monday",2116.75
+"1669","HEWES ST","Saturday",557.25
+"1670","HEWES ST","Sunday",378.5
+"1671","HEWES ST","Thursday",3023.25
+"1672","HEWES ST","Tuesday",2897.5
+"1673","HEWES ST","Wednesday",2925.25
+"1674","HIGH ST","Friday",9409.5
+"1675","HIGH ST","Monday",8224.5
+"1676","HIGH ST","Saturday",5998
+"1677","HIGH ST","Sunday",6195.75
+"1678","HIGH ST","Thursday",9111.25
+"1679","HIGH ST","Tuesday",8853.25
+"1680","HIGH ST","Wednesday",8999
+"1681","HOUSTON ST","Friday",15746.5
+"1682","HOUSTON ST","Monday",12330.25
+"1683","HOUSTON ST","Saturday",5705.75
+"1684","HOUSTON ST","Sunday",5122
+"1685","HOUSTON ST","Thursday",17128.25
+"1686","HOUSTON ST","Tuesday",16059.25
+"1687","HOUSTON ST","Wednesday",16988
+"1688","HOWARD BCH-JFK","Friday",2235
+"1689","HOWARD BCH-JFK","Monday",2345.5
+"1690","HOWARD BCH-JFK","Saturday",1628.5
+"1691","HOWARD BCH-JFK","Sunday",1637
+"1692","HOWARD BCH-JFK","Thursday",2259.25
+"1693","HOWARD BCH-JFK","Tuesday",2354.5
+"1694","HOWARD BCH-JFK","Wednesday",2361.75
+"1695","HOYT/SCHERMER","Friday",10048.5
+"1696","HOYT/SCHERMER","Monday",8583.25
+"1697","HOYT/SCHERMER","Saturday",5565.25
+"1698","HOYT/SCHERMER","Sunday",4748.75
+"1699","HOYT/SCHERMER","Thursday",10193.75
+"1700","HOYT/SCHERMER","Tuesday",10045
+"1701","HOYT/SCHERMER","Wednesday",10281.75
+"1702","HOYT ST","Friday",7688.75
+"1703","HOYT ST","Monday",5832.5
+"1704","HOYT ST","Saturday",3483.25
+"1705","HOYT ST","Sunday",2681
+"1706","HOYT ST","Thursday",7493.5
+"1707","HOYT ST","Tuesday",7305.5
+"1708","HOYT ST","Wednesday",7759.25
+"1709","HOYT ST-ASTORIA","Friday",12584.75
+"1710","HOYT ST-ASTORIA","Monday",11217.5
+"1711","HOYT ST-ASTORIA","Saturday",8663.5
+"1712","HOYT ST-ASTORIA","Sunday",7453
+"1713","HOYT ST-ASTORIA","Thursday",12777.75
+"1714","HOYT ST-ASTORIA","Tuesday",12764
+"1715","HOYT ST-ASTORIA","Wednesday",12855.25
+"1716","HUDSON-80 ST","Friday",4690
+"1717","HUDSON-80 ST","Monday",4231.75
+"1718","HUDSON-80 ST","Saturday",3142.25
+"1719","HUDSON-80 ST","Sunday",2509
+"1720","HUDSON-80 ST","Thursday",4799
+"1721","HUDSON-80 ST","Tuesday",4803.25
+"1722","HUDSON-80 ST","Wednesday",4788.25
+"1723","HUNTERS PT AVE","Friday",6479
+"1724","HUNTERS PT AVE","Monday",5464.25
+"1725","HUNTERS PT AVE","Saturday",1403.25
+"1726","HUNTERS PT AVE","Sunday",1025.5
+"1727","HUNTERS PT AVE","Thursday",7027.25
+"1728","HUNTERS PT AVE","Tuesday",7193
+"1729","HUNTERS PT AVE","Wednesday",7122.5
+"1730","HUNTS POINT AVE","Friday",10607.25
+"1731","HUNTS POINT AVE","Monday",9078.75
+"1732","HUNTS POINT AVE","Saturday",5663.75
+"1733","HUNTS POINT AVE","Sunday",4451.5
+"1734","HUNTS POINT AVE","Thursday",10497.5
+"1735","HUNTS POINT AVE","Tuesday",10602
+"1736","HUNTS POINT AVE","Wednesday",10653.25
+"1737","INTERVALE-163","Friday",3769
+"1738","INTERVALE-163","Monday",3325
+"1739","INTERVALE-163","Saturday",2121.75
+"1740","INTERVALE-163","Sunday",1767
+"1741","INTERVALE-163","Thursday",3852.5
+"1742","INTERVALE-163","Tuesday",3851.75
+"1743","INTERVALE-163","Wednesday",3954.25
+"1744","INWOOD-207 ST","Friday",9747.25
+"1745","INWOOD-207 ST","Monday",8700
+"1746","INWOOD-207 ST","Saturday",6207.75
+"1747","INWOOD-207 ST","Sunday",5141
+"1748","INWOOD-207 ST","Thursday",9756.25
+"1749","INWOOD-207 ST","Tuesday",9953.5
+"1750","INWOOD-207 ST","Wednesday",9801.5
+"1751","JACKSON AVE","Friday",5990.75
+"1752","JACKSON AVE","Monday",5335.75
+"1753","JACKSON AVE","Saturday",3723.25
+"1754","JACKSON AVE","Sunday",3144.75
+"1755","JACKSON AVE","Thursday",6078
+"1756","JACKSON AVE","Tuesday",6147.75
+"1757","JACKSON AVE","Wednesday",6175
+"1758","JAMAICA-179 ST","Friday",23368.75
+"1759","JAMAICA-179 ST","Monday",20465
+"1760","JAMAICA-179 ST","Saturday",9553.5
+"1761","JAMAICA-179 ST","Sunday",7507.25
+"1762","JAMAICA-179 ST","Thursday",24689.75
+"1763","JAMAICA-179 ST","Tuesday",24779.5
+"1764","JAMAICA-179 ST","Wednesday",24887
+"1765","JAMAICA CENTER","Friday",43860.5
+"1766","JAMAICA CENTER","Monday",38855.25
+"1767","JAMAICA CENTER","Saturday",22014.5
+"1768","JAMAICA CENTER","Sunday",17192.25
+"1769","JAMAICA CENTER","Thursday",44897.5
+"1770","JAMAICA CENTER","Tuesday",45936.75
+"1771","JAMAICA CENTER","Wednesday",46104
+"1772","JAMAICA-VAN WYC","Friday",5173.25
+"1773","JAMAICA-VAN WYC","Monday",4559
+"1774","JAMAICA-VAN WYC","Saturday",2892.25
+"1775","JAMAICA-VAN WYC","Sunday",2319.5
+"1776","JAMAICA-VAN WYC","Thursday",5291.25
+"1777","JAMAICA-VAN WYC","Tuesday",5344.25
+"1778","JAMAICA-VAN WYC","Wednesday",5366
+"1779","JAY ST-METROTEC","Friday",41590.5
+"1780","JAY ST-METROTEC","Monday",35040.75
+"1781","JAY ST-METROTEC","Saturday",18322.75
+"1782","JAY ST-METROTEC","Sunday",14236.25
+"1783","JAY ST-METROTEC","Thursday",44551
+"1784","JAY ST-METROTEC","Tuesday",44358.75
+"1785","JAY ST-METROTEC","Wednesday",44824.75
+"1786","JEFFERSON ST","Friday",7650.75
+"1787","JEFFERSON ST","Monday",6673
+"1788","JEFFERSON ST","Saturday",6062
+"1789","JEFFERSON ST","Sunday",5382.5
+"1790","JEFFERSON ST","Thursday",7503
+"1791","JEFFERSON ST","Tuesday",7354
+"1792","JEFFERSON ST","Wednesday",7369.5
+"1793","JFK HOWARD BCH","Friday",3085.75
+"1794","JFK HOWARD BCH","Monday",2622.5
+"1795","JFK HOWARD BCH","Saturday",2506.75
+"1796","JFK HOWARD BCH","Sunday",2475.25
+"1797","JFK HOWARD BCH","Thursday",2698.75
+"1798","JFK HOWARD BCH","Tuesday",2431.25
+"1799","JFK HOWARD BCH","Wednesday",2513
+"1800","JFK JAMAICA CT1","Friday",9040.25
+"1801","JFK JAMAICA CT1","Monday",6870.75
+"1802","JFK JAMAICA CT1","Saturday",6074.25
+"1803","JFK JAMAICA CT1","Sunday",5969
+"1804","JFK JAMAICA CT1","Thursday",8069.75
+"1805","JFK JAMAICA CT1","Tuesday",6886.5
+"1806","JFK JAMAICA CT1","Wednesday",7060.75
+"1807","JOURNAL SQUARE","Friday",20868
+"1808","JOURNAL SQUARE","Monday",18354.25
+"1809","JOURNAL SQUARE","Saturday",11681
+"1810","JOURNAL SQUARE","Sunday",9611.75
+"1811","JOURNAL SQUARE","Thursday",20911
+"1812","JOURNAL SQUARE","Tuesday",21024
+"1813","JOURNAL SQUARE","Wednesday",21204
+"1814","JUNCTION BLVD","Friday",22315.25
+"1815","JUNCTION BLVD","Monday",19872
+"1816","JUNCTION BLVD","Saturday",16354.5
+"1817","JUNCTION BLVD","Sunday",13588
+"1818","JUNCTION BLVD","Thursday",22033.75
+"1819","JUNCTION BLVD","Tuesday",21905.75
+"1820","JUNCTION BLVD","Wednesday",22327.75
+"1821","JUNIUS ST","Friday",2522.25
+"1822","JUNIUS ST","Monday",1691.75
+"1823","JUNIUS ST","Saturday",156.25
+"1824","JUNIUS ST","Sunday",1
+"1825","JUNIUS ST","Thursday",2523
+"1826","JUNIUS ST","Tuesday",2460
+"1827","JUNIUS ST","Wednesday",2581
+"1828","KINGSBRIDGE RD","Friday",18901.5
+"1829","KINGSBRIDGE RD","Monday",16990
+"1830","KINGSBRIDGE RD","Saturday",11251
+"1831","KINGSBRIDGE RD","Sunday",9426
+"1832","KINGSBRIDGE RD","Thursday",19208
+"1833","KINGSBRIDGE RD","Tuesday",19477.5
+"1834","KINGSBRIDGE RD","Wednesday",19499.25
+"1835","KINGS HIGHWAY","Friday",29117.5
+"1836","KINGS HIGHWAY","Monday",26047
+"1837","KINGS HIGHWAY","Saturday",14890.5
+"1838","KINGS HIGHWAY","Sunday",13750.75
+"1839","KINGS HIGHWAY","Thursday",29958.5
+"1840","KINGS HIGHWAY","Tuesday",30236
+"1841","KINGS HIGHWAY","Wednesday",30588
+"1842","KINGSTON AVE","Friday",5540.5
+"1843","KINGSTON AVE","Monday",3483.5
+"1844","KINGSTON AVE","Saturday",196.25
+"1845","KINGSTON AVE","Sunday",4.25
+"1846","KINGSTON AVE","Thursday",5108
+"1847","KINGSTON AVE","Tuesday",4965.25
+"1848","KINGSTON AVE","Wednesday",5094
+"1849","KINGSTON-THROOP","Friday",6196.5
+"1850","KINGSTON-THROOP","Monday",5443.25
+"1851","KINGSTON-THROOP","Saturday",4097.25
+"1852","KINGSTON-THROOP","Sunday",3714.75
+"1853","KINGSTON-THROOP","Thursday",6230.75
+"1854","KINGSTON-THROOP","Tuesday",6117.5
+"1855","KINGSTON-THROOP","Wednesday",6131.5
+"1856","KNICKERBOCKER","Friday",4065
+"1857","KNICKERBOCKER","Monday",2828.5
+"1858","KNICKERBOCKER","Saturday",507
+"1859","KNICKERBOCKER","Sunday",309.75
+"1860","KNICKERBOCKER","Thursday",3884
+"1861","KNICKERBOCKER","Tuesday",3900.25
+"1862","KNICKERBOCKER","Wednesday",3916.75
+"1863","KOSCIUSZKO ST","Friday",5017.75
+"1864","KOSCIUSZKO ST","Monday",3539.25
+"1865","KOSCIUSZKO ST","Saturday",1005.5
+"1866","KOSCIUSZKO ST","Sunday",677.25
+"1867","KOSCIUSZKO ST","Thursday",4997
+"1868","KOSCIUSZKO ST","Tuesday",4849.25
+"1869","KOSCIUSZKO ST","Wednesday",4927.25
+"1870","LACKAWANNA","Friday",21905.25
+"1871","LACKAWANNA","Monday",21269
+"1872","LACKAWANNA","Saturday",10508.25
+"1873","LACKAWANNA","Sunday",8895.75
+"1874","LACKAWANNA","Thursday",23815.75
+"1875","LACKAWANNA","Tuesday",23443.5
+"1876","LACKAWANNA","Wednesday",23949.75
+"1877","LAFAYETTE AVE","Friday",5649.75
+"1878","LAFAYETTE AVE","Monday",4746.5
+"1879","LAFAYETTE AVE","Saturday",4369.5
+"1880","LAFAYETTE AVE","Sunday",3820.25
+"1881","LAFAYETTE AVE","Thursday",4275.25
+"1882","LAFAYETTE AVE","Tuesday",4974
+"1883","LAFAYETTE AVE","Wednesday",4886.25
+"1884","LEFFERTS BLVD","Friday",7882.75
+"1885","LEFFERTS BLVD","Monday",6994.75
+"1886","LEFFERTS BLVD","Saturday",3112.25
+"1887","LEFFERTS BLVD","Sunday",2503.75
+"1888","LEFFERTS BLVD","Thursday",8148.25
+"1889","LEFFERTS BLVD","Tuesday",8201.25
+"1890","LEFFERTS BLVD","Wednesday",8250.75
+"1891","LEXINGTON-53 ST","Friday",53524.25
+"1892","LEXINGTON-53 ST","Monday",34599.25
+"1893","LEXINGTON-53 ST","Saturday",17038.25
+"1894","LEXINGTON-53 ST","Sunday",12556.25
+"1895","LEXINGTON-53 ST","Thursday",48630.5
+"1896","LEXINGTON-53 ST","Tuesday",45402.5
+"1897","LEXINGTON-53 ST","Wednesday",48258
+"1898","LEXINGTON AVE","Friday",88636.5
+"1899","LEXINGTON AVE","Monday",67531.75
+"1900","LEXINGTON AVE","Saturday",46014
+"1901","LEXINGTON AVE","Sunday",37724.75
+"1902","LEXINGTON AVE","Thursday",90522.5
+"1903","LEXINGTON AVE","Tuesday",86191
+"1904","LEXINGTON AVE","Wednesday",90394.5
+"1905","LIBERTY AVE","Friday",2823
+"1906","LIBERTY AVE","Monday",2528.75
+"1907","LIBERTY AVE","Saturday",1558.75
+"1908","LIBERTY AVE","Sunday",1309
+"1909","LIBERTY AVE","Thursday",2805.5
+"1910","LIBERTY AVE","Tuesday",2847.25
+"1911","LIBERTY AVE","Wednesday",2847.25
+"1912","LIVONIA AVE","Friday",3369
+"1913","LIVONIA AVE","Monday",3207.5
+"1914","LIVONIA AVE","Saturday",2699.5
+"1915","LIVONIA AVE","Sunday",2204.5
+"1916","LIVONIA AVE","Thursday",3267.5
+"1917","LIVONIA AVE","Tuesday",3291.75
+"1918","LIVONIA AVE","Wednesday",3312.5
+"1919","LONGWOOD AVE","Friday",3888.25
+"1920","LONGWOOD AVE","Monday",3282.5
+"1921","LONGWOOD AVE","Saturday",2183.25
+"1922","LONGWOOD AVE","Sunday",1726.75
+"1923","LONGWOOD AVE","Thursday",3733.25
+"1924","LONGWOOD AVE","Tuesday",3789.5
+"1925","LONGWOOD AVE","Wednesday",3842.25
+"1926","LORIMER ST","Friday",20687.5
+"1927","LORIMER ST","Monday",17538
+"1928","LORIMER ST","Saturday",14223
+"1929","LORIMER ST","Sunday",13559.25
+"1930","LORIMER ST","Thursday",20364.25
+"1931","LORIMER ST","Tuesday",19962.5
+"1932","LORIMER ST","Wednesday",20213.5
+"1933","MAIN ST","Friday",61847.75
+"1934","MAIN ST","Monday",57340
+"1935","MAIN ST","Saturday",41001
+"1936","MAIN ST","Sunday",35435
+"1937","MAIN ST","Thursday",62414
+"1938","MAIN ST","Tuesday",63868.25
+"1939","MAIN ST","Wednesday",64517
+"1940","MARBLE HILL-225","Friday",6190.75
+"1941","MARBLE HILL-225","Monday",5653.25
+"1942","MARBLE HILL-225","Saturday",4311
+"1943","MARBLE HILL-225","Sunday",3803.75
+"1944","MARBLE HILL-225","Thursday",6068.25
+"1945","MARBLE HILL-225","Tuesday",6126.25
+"1946","MARBLE HILL-225","Wednesday",6174
+"1947","MARCY AVE","Friday",13283.25
+"1948","MARCY AVE","Monday",12736.25
+"1949","MARCY AVE","Saturday",11680.25
+"1950","MARCY AVE","Sunday",10317.25
+"1951","MARCY AVE","Thursday",13237.25
+"1952","MARCY AVE","Tuesday",12963.5
+"1953","MARCY AVE","Wednesday",13292.25
+"1954","METROPOLITAN AV","Friday",4413
+"1955","METROPOLITAN AV","Monday",3188.25
+"1956","METROPOLITAN AV","Saturday",735
+"1957","METROPOLITAN AV","Sunday",445.5
+"1958","METROPOLITAN AV","Thursday",4413.75
+"1959","METROPOLITAN AV","Tuesday",4426
+"1960","METROPOLITAN AV","Wednesday",4541
+"1961","METS-WILLETS PT","Friday",7393.25
+"1962","METS-WILLETS PT","Monday",5222
+"1963","METS-WILLETS PT","Saturday",7686.5
+"1964","METS-WILLETS PT","Sunday",11834.25
+"1965","METS-WILLETS PT","Thursday",7109.75
+"1966","METS-WILLETS PT","Tuesday",3291.75
+"1967","METS-WILLETS PT","Wednesday",7100.25
+"1968","MIDDLETOWN ROAD","Friday",1563.25
+"1969","MIDDLETOWN ROAD","Monday",1157.25
+"1970","MIDDLETOWN ROAD","Saturday",540.25
+"1971","MIDDLETOWN ROAD","Sunday",411
+"1972","MIDDLETOWN ROAD","Thursday",1596
+"1973","MIDDLETOWN ROAD","Tuesday",1537.25
+"1974","MIDDLETOWN ROAD","Wednesday",1603.25
+"1975","MONTROSE AVE","Friday",7353
+"1976","MONTROSE AVE","Monday",6687.75
+"1977","MONTROSE AVE","Saturday",6153
+"1978","MONTROSE AVE","Sunday",5840.75
+"1979","MONTROSE AVE","Thursday",7319.5
+"1980","MONTROSE AVE","Tuesday",7186.25
+"1981","MONTROSE AVE","Wednesday",7271.5
+"1982","MORGAN AVE","Friday",7862.25
+"1983","MORGAN AVE","Monday",7088.25
+"1984","MORGAN AVE","Saturday",7155.25
+"1985","MORGAN AVE","Sunday",6849.5
+"1986","MORGAN AVE","Thursday",7802.75
+"1987","MORGAN AVE","Tuesday",7513
+"1988","MORGAN AVE","Wednesday",7784
+"1989","MORRISON AVE","Friday",7027.5
+"1990","MORRISON AVE","Monday",6296.5
+"1991","MORRISON AVE","Saturday",4460.25
+"1992","MORRISON AVE","Sunday",3693
+"1993","MORRISON AVE","Thursday",6881
+"1994","MORRISON AVE","Tuesday",6975.5
+"1995","MORRISON AVE","Wednesday",7069.75
+"1996","MORRIS PARK","Friday",2326.25
+"1997","MORRIS PARK","Monday",2016.5
+"1998","MORRIS PARK","Saturday",912.25
+"1999","MORRIS PARK","Sunday",654.25
+"2000","MORRIS PARK","Thursday",2450.5
+"2001","MORRIS PARK","Tuesday",2497.25
+"2002","MORRIS PARK","Wednesday",2458
+"2003","MOSHOLU PARKWAY","Friday",9869.75
+"2004","MOSHOLU PARKWAY","Monday",8760.75
+"2005","MOSHOLU PARKWAY","Saturday",5299.75
+"2006","MOSHOLU PARKWAY","Sunday",4487.5
+"2007","MOSHOLU PARKWAY","Thursday",10078.5
+"2008","MOSHOLU PARKWAY","Tuesday",10340.5
+"2009","MOSHOLU PARKWAY","Wednesday",10345.25
+"2010","MT EDEN AVE","Friday",6042.25
+"2011","MT EDEN AVE","Monday",5573.25
+"2012","MT EDEN AVE","Saturday",3598.75
+"2013","MT EDEN AVE","Sunday",2765
+"2014","MT EDEN AVE","Thursday",6040.25
+"2015","MT EDEN AVE","Tuesday",6223.5
+"2016","MT EDEN AVE","Wednesday",6338
+"2017","MURRAY ST-B'WAY","Friday",3925.75
+"2018","MURRAY ST-B'WAY","Monday",2808.25
+"2019","MURRAY ST-B'WAY","Saturday",172.75
+"2020","MURRAY ST-B'WAY","Sunday",0
+"2021","MURRAY ST-B'WAY","Thursday",4022.75
+"2022","MURRAY ST-B'WAY","Tuesday",4062.5
+"2023","MURRAY ST-B'WAY","Wednesday",4076.25
+"2024","MYRTLE AVE","Friday",32062.75
+"2025","MYRTLE AVE","Monday",27259.25
+"2026","MYRTLE AVE","Saturday",20528
+"2027","MYRTLE AVE","Sunday",17180.75
+"2028","MYRTLE AVE","Thursday",31523.75
+"2029","MYRTLE AVE","Tuesday",31148.5
+"2030","MYRTLE AVE","Wednesday",31709.25
+"2031","MYRTLE-WILLOUGH","Friday",5621.75
+"2032","MYRTLE-WILLOUGH","Monday",5065
+"2033","MYRTLE-WILLOUGH","Saturday",3849.25
+"2034","MYRTLE-WILLOUGH","Sunday",3622.75
+"2035","MYRTLE-WILLOUGH","Thursday",5674.5
+"2036","MYRTLE-WILLOUGH","Tuesday",5578.5
+"2037","MYRTLE-WILLOUGH","Wednesday",5672
+"2038","NASSAU AV","Friday",8824.75
+"2039","NASSAU AV","Monday",7427.25
+"2040","NASSAU AV","Saturday",5417.25
+"2041","NASSAU AV","Sunday",4717
+"2042","NASSAU AV","Thursday",8982
+"2043","NASSAU AV","Tuesday",8675.5
+"2044","NASSAU AV","Wednesday",8930
+"2045","NECK ROAD","Friday",4124.75
+"2046","NECK ROAD","Monday",3793.25
+"2047","NECK ROAD","Saturday",2267.75
+"2048","NECK ROAD","Sunday",1939
+"2049","NECK ROAD","Thursday",4343.25
+"2050","NECK ROAD","Tuesday",4349.75
+"2051","NECK ROAD","Wednesday",4293.75
+"2052","NEPTUNE AVE","Friday",1859.5
+"2053","NEPTUNE AVE","Monday",1654.25
+"2054","NEPTUNE AVE","Saturday",861
+"2055","NEPTUNE AVE","Sunday",747
+"2056","NEPTUNE AVE","Thursday",1949
+"2057","NEPTUNE AVE","Tuesday",1968.25
+"2058","NEPTUNE AVE","Wednesday",1970.25
+"2059","NEREID AVE","Friday",4083.75
+"2060","NEREID AVE","Monday",3545.25
+"2061","NEREID AVE","Saturday",2229.75
+"2062","NEREID AVE","Sunday",1730.5
+"2063","NEREID AVE","Thursday",4037.25
+"2064","NEREID AVE","Tuesday",4120
+"2065","NEREID AVE","Wednesday",4088.5
+"2066","NEVINS ST","Friday",12181
+"2067","NEVINS ST","Monday",10034
+"2068","NEVINS ST","Saturday",5836.5
+"2069","NEVINS ST","Sunday",4361.75
+"2070","NEVINS ST","Thursday",12547.75
+"2071","NEVINS ST","Tuesday",12511
+"2072","NEVINS ST","Wednesday",12586.25
+"2073","NEWARK HM HE","Friday",29207.25
+"2074","NEWARK HM HE","Monday",21946.5
+"2075","NEWARK HM HE","Saturday",8856
+"2076","NEWARK HM HE","Sunday",6906.5
+"2077","NEWARK HM HE","Thursday",25424.25
+"2078","NEWARK HM HE","Tuesday",26563.5
+"2079","NEWARK HM HE","Wednesday",26478.75
+"2080","NEWKIRK AVE","Friday",19879.75
+"2081","NEWKIRK AVE","Monday",16372.25
+"2082","NEWKIRK AVE","Saturday",7500.75
+"2083","NEWKIRK AVE","Sunday",6097.5
+"2084","NEWKIRK AVE","Thursday",20074
+"2085","NEWKIRK AVE","Tuesday",20064
+"2086","NEWKIRK AVE","Wednesday",20215.75
+"2087","NEW LOTS AVE","Friday",12591
+"2088","NEW LOTS AVE","Monday",9658.75
+"2089","NEW LOTS AVE","Saturday",4099
+"2090","NEW LOTS AVE","Sunday",3132.5
+"2091","NEW LOTS AVE","Thursday",12646.75
+"2092","NEW LOTS AVE","Tuesday",12472
+"2093","NEW LOTS AVE","Wednesday",12700.5
+"2094","NEW UTRECHT AVE","Friday",5402.75
+"2095","NEW UTRECHT AVE","Monday",4929.75
+"2096","NEW UTRECHT AVE","Saturday",3371
+"2097","NEW UTRECHT AVE","Sunday",3038.75
+"2098","NEW UTRECHT AVE","Thursday",5598.5
+"2099","NEW UTRECHT AVE","Tuesday",5621
+"2100","NEW UTRECHT AVE","Wednesday",5513
+"2101","NORTHERN BLVD","Friday",7545.75
+"2102","NORTHERN BLVD","Monday",6597.75
+"2103","NORTHERN BLVD","Saturday",3792
+"2104","NORTHERN BLVD","Sunday",3212.75
+"2105","NORTHERN BLVD","Thursday",7908.5
+"2106","NORTHERN BLVD","Tuesday",7731.5
+"2107","NORTHERN BLVD","Wednesday",7781.5
+"2108","NORWOOD-205 ST","Friday",8758.25
+"2109","NORWOOD-205 ST","Monday",7879.75
+"2110","NORWOOD-205 ST","Saturday",5676.25
+"2111","NORWOOD-205 ST","Sunday",4803.5
+"2112","NORWOOD-205 ST","Thursday",8799
+"2113","NORWOOD-205 ST","Tuesday",8856.75
+"2114","NORWOOD-205 ST","Wednesday",8997.75
+"2115","NORWOOD AVE","Friday",3798.5
+"2116","NORWOOD AVE","Monday",3350.25
+"2117","NORWOOD AVE","Saturday",2315
+"2118","NORWOOD AVE","Sunday",1924.5
+"2119","NORWOOD AVE","Thursday",3802
+"2120","NORWOOD AVE","Tuesday",3828.75
+"2121","NORWOOD AVE","Wednesday",3836.5
+"2122","NOSTRAND AVE","Friday",22578.75
+"2123","NOSTRAND AVE","Monday",18548.75
+"2124","NOSTRAND AVE","Saturday",12571.25
+"2125","NOSTRAND AVE","Sunday",10705.25
+"2126","NOSTRAND AVE","Thursday",22201.75
+"2127","NOSTRAND AVE","Tuesday",21728.75
+"2128","NOSTRAND AVE","Wednesday",22224.75
+"2129","OCEAN PARKWAY","Friday",3331.5
+"2130","OCEAN PARKWAY","Monday",3328.25
+"2131","OCEAN PARKWAY","Saturday",1988.25
+"2132","OCEAN PARKWAY","Sunday",1834.5
+"2133","OCEAN PARKWAY","Thursday",3449.5
+"2134","OCEAN PARKWAY","Tuesday",3642.75
+"2135","OCEAN PARKWAY","Wednesday",3488.25
+"2136","ORCHARD BEACH","Friday",0
+"2137","ORCHARD BEACH","Monday",904
+"2138","ORCHARD BEACH","Saturday",72
+"2139","ORCHARD BEACH","Sunday",675
+"2140","ORCHARD BEACH","Thursday",0
+"2141","ORCHARD BEACH","Tuesday",0.5
+"2142","ORCHARD BEACH","Wednesday",0
+"2143","OXFORD-104 ST","Friday",1612.75
+"2144","OXFORD-104 ST","Monday",1373.5
+"2145","OXFORD-104 ST","Saturday",426.75
+"2146","OXFORD-104 ST","Sunday",422.25
+"2147","OXFORD-104 ST","Thursday",1696.5
+"2148","OXFORD-104 ST","Tuesday",1690.5
+"2149","OXFORD-104 ST","Wednesday",1710
+"2150","PACIFIC ST","Friday",42735.75
+"2151","PACIFIC ST","Monday",37918.5
+"2152","PACIFIC ST","Saturday",29418.75
+"2153","PACIFIC ST","Sunday",26669.5
+"2154","PACIFIC ST","Thursday",42455.75
+"2155","PACIFIC ST","Tuesday",44500.25
+"2156","PACIFIC ST","Wednesday",42498.25
+"2157","PARK PLACE","Friday",2069.25
+"2158","PARK PLACE","Monday",1748.25
+"2159","PARK PLACE","Saturday",1123
+"2160","PARK PLACE","Sunday",931
+"2161","PARK PLACE","Thursday",2083.25
+"2162","PARK PLACE","Tuesday",2019.5
+"2163","PARK PLACE","Wednesday",2009.75
+"2164","PARKSIDE AVE","Friday",4807
+"2165","PARKSIDE AVE","Monday",4559.25
+"2166","PARKSIDE AVE","Saturday",4211.75
+"2167","PARKSIDE AVE","Sunday",3551.5
+"2168","PARKSIDE AVE","Thursday",4704.25
+"2169","PARKSIDE AVE","Tuesday",4747
+"2170","PARKSIDE AVE","Wednesday",4733.75
+"2171","PARSONS BLVD","Friday",6785.25
+"2172","PARSONS BLVD","Monday",5965.5
+"2173","PARSONS BLVD","Saturday",3756
+"2174","PARSONS BLVD","Sunday",3135.75
+"2175","PARSONS BLVD","Thursday",6914.75
+"2176","PARSONS BLVD","Tuesday",7005.25
+"2177","PARSONS BLVD","Wednesday",7036.5
+"2178","PATH WTC 2","Friday",43095.75
+"2179","PATH WTC 2","Monday",35926.5
+"2180","PATH WTC 2","Saturday",1819.25
+"2181","PATH WTC 2","Sunday",0
+"2182","PATH WTC 2","Thursday",47562.5
+"2183","PATH WTC 2","Tuesday",48011.25
+"2184","PATH WTC 2","Wednesday",49932.5
+"2185","PAVONIA/NEWPORT","Friday",18778.5
+"2186","PAVONIA/NEWPORT","Monday",16543
+"2187","PAVONIA/NEWPORT","Saturday",11004.25
+"2188","PAVONIA/NEWPORT","Sunday",9101
+"2189","PAVONIA/NEWPORT","Thursday",19726
+"2190","PAVONIA/NEWPORT","Tuesday",19623.75
+"2191","PAVONIA/NEWPORT","Wednesday",19750.75
+"2192","PELHAM BAY PARK","Friday",7437.75
+"2193","PELHAM BAY PARK","Monday",7241.5
+"2194","PELHAM BAY PARK","Saturday",3831.25
+"2195","PELHAM BAY PARK","Sunday",3559.25
+"2196","PELHAM BAY PARK","Thursday",7543.5
+"2197","PELHAM BAY PARK","Tuesday",7856
+"2198","PELHAM BAY PARK","Wednesday",7758.5
+"2199","PELHAM PARKWAY","Friday",13644.75
+"2200","PELHAM PARKWAY","Monday",12083.75
+"2201","PELHAM PARKWAY","Saturday",7885.5
+"2202","PELHAM PARKWAY","Sunday",6261.75
+"2203","PELHAM PARKWAY","Thursday",13780
+"2204","PELHAM PARKWAY","Tuesday",14049.25
+"2205","PELHAM PARKWAY","Wednesday",14247
+"2206","PENNSYLVANIA AV","Friday",6054.5
+"2207","PENNSYLVANIA AV","Monday",4110
+"2208","PENNSYLVANIA AV","Saturday",309
+"2209","PENNSYLVANIA AV","Sunday",5
+"2210","PENNSYLVANIA AV","Thursday",6050.25
+"2211","PENNSYLVANIA AV","Tuesday",6015
+"2212","PENNSYLVANIA AV","Wednesday",6124.25
+"2213","PRESIDENT ST","Friday",4281.5
+"2214","PRESIDENT ST","Monday",2989.5
+"2215","PRESIDENT ST","Saturday",224.25
+"2216","PRESIDENT ST","Sunday",0.25
+"2217","PRESIDENT ST","Thursday",4366.5
+"2218","PRESIDENT ST","Tuesday",4111.5
+"2219","PRESIDENT ST","Wednesday",4400.25
+"2220","PRINCE ST-B'WAY","Friday",17020.5
+"2221","PRINCE ST-B'WAY","Monday",13558.75
+"2222","PRINCE ST-B'WAY","Saturday",13898.5
+"2223","PRINCE ST-B'WAY","Sunday",12287
+"2224","PRINCE ST-B'WAY","Thursday",15747
+"2225","PRINCE ST-B'WAY","Tuesday",14929
+"2226","PRINCE ST-B'WAY","Wednesday",15558.75
+"2227","PROSPECT AVE","Friday",14738.75
+"2228","PROSPECT AVE","Monday",12451.75
+"2229","PROSPECT AVE","Saturday",8425.25
+"2230","PROSPECT AVE","Sunday",7083.75
+"2231","PROSPECT AVE","Thursday",14753.25
+"2232","PROSPECT AVE","Tuesday",14840.5
+"2233","PROSPECT AVE","Wednesday",14943.75
+"2234","PROSPECT PARK","Friday",10272
+"2235","PROSPECT PARK","Monday",9892.25
+"2236","PROSPECT PARK","Saturday",13747.75
+"2237","PROSPECT PARK","Sunday",7597.5
+"2238","PROSPECT PARK","Thursday",6067
+"2239","PROSPECT PARK","Tuesday",10970
+"2240","PROSPECT PARK","Wednesday",10485.75
+"2241","QUEENSBORO PLZ","Friday",12476.5
+"2242","QUEENSBORO PLZ","Monday",10172.5
+"2243","QUEENSBORO PLZ","Saturday",8495.5
+"2244","QUEENSBORO PLZ","Sunday",6422.25
+"2245","QUEENSBORO PLZ","Thursday",12639.75
+"2246","QUEENSBORO PLZ","Tuesday",11994.25
+"2247","QUEENSBORO PLZ","Wednesday",12425.75
+"2248","QUEENS PLAZA","Friday",10558
+"2249","QUEENS PLAZA","Monday",9265.25
+"2250","QUEENS PLAZA","Saturday",4736
+"2251","QUEENS PLAZA","Sunday",3377
+"2252","QUEENS PLAZA","Thursday",11894.5
+"2253","QUEENS PLAZA","Tuesday",11580.25
+"2254","QUEENS PLAZA","Wednesday",12022
+"2255","RALPH AVE","Friday",5774.25
+"2256","RALPH AVE","Monday",5411.25
+"2257","RALPH AVE","Saturday",4005.5
+"2258","RALPH AVE","Sunday",3497.5
+"2259","RALPH AVE","Thursday",5733.5
+"2260","RALPH AVE","Tuesday",5739.75
+"2261","RALPH AVE","Wednesday",5731.25
+"2262","RECTOR ST","Friday",15867
+"2263","RECTOR ST","Monday",12725.25
+"2264","RECTOR ST","Saturday",7151.75
+"2265","RECTOR ST","Sunday",5967
+"2266","RECTOR ST","Thursday",15850
+"2267","RECTOR ST","Tuesday",15488.25
+"2268","RECTOR ST","Wednesday",15877.25
+"2269","RIT-MANHATTAN","Friday",3778.5
+"2270","RIT-MANHATTAN","Monday",4976.25
+"2271","RIT-MANHATTAN","Saturday",5704.25
+"2272","RIT-MANHATTAN","Sunday",6299.5
+"2273","RIT-MANHATTAN","Thursday",3717.25
+"2274","RIT-MANHATTAN","Tuesday",4085.5
+"2275","RIT-MANHATTAN","Wednesday",3954.25
+"2276","RIT-ROOSEVELT","Friday",3826
+"2277","RIT-ROOSEVELT","Monday",4291
+"2278","RIT-ROOSEVELT","Saturday",4426.5
+"2279","RIT-ROOSEVELT","Sunday",4607.25
+"2280","RIT-ROOSEVELT","Thursday",3764
+"2281","RIT-ROOSEVELT","Tuesday",4019.25
+"2282","RIT-ROOSEVELT","Wednesday",3921.75
+"2283","ROCKAWAY AVE","Friday",11421.75
+"2284","ROCKAWAY AVE","Monday",8967
+"2285","ROCKAWAY AVE","Saturday",3662.75
+"2286","ROCKAWAY AVE","Sunday",2844.75
+"2287","ROCKAWAY AVE","Thursday",11351
+"2288","ROCKAWAY AVE","Tuesday",11257.25
+"2289","ROCKAWAY AVE","Wednesday",11501.25
+"2290","ROCKAWAY BLVD","Friday",8533.75
+"2291","ROCKAWAY BLVD","Monday",7521.75
+"2292","ROCKAWAY BLVD","Saturday",4877.25
+"2293","ROCKAWAY BLVD","Sunday",3806.25
+"2294","ROCKAWAY BLVD","Thursday",8692.25
+"2295","ROCKAWAY BLVD","Tuesday",8805.25
+"2296","ROCKAWAY BLVD","Wednesday",8747.75
+"2297","ROCKAWAY PK 116","Friday",685
+"2298","ROCKAWAY PK 116","Monday",1032
+"2299","ROCKAWAY PK 116","Saturday",332
+"2300","ROCKAWAY PK 116","Sunday",313.5
+"2301","ROCKAWAY PK 116","Thursday",660
+"2302","ROCKAWAY PK 116","Tuesday",722.5
+"2303","ROCKAWAY PK 116","Wednesday",640.25
+"2304","ROCKAWAY PKY","Friday",14434.75
+"2305","ROCKAWAY PKY","Monday",12749
+"2306","ROCKAWAY PKY","Saturday",8280.5
+"2307","ROCKAWAY PKY","Sunday",6632.5
+"2308","ROCKAWAY PKY","Thursday",14440.25
+"2309","ROCKAWAY PKY","Tuesday",14671.75
+"2310","ROCKAWAY PKY","Wednesday",14600.75
+"2311","ROOSEVELT IS","Friday",6283.75
+"2312","ROOSEVELT IS","Monday",5495.5
+"2313","ROOSEVELT IS","Saturday",3947.5
+"2314","ROOSEVELT IS","Sunday",3619.5
+"2315","ROOSEVELT IS","Thursday",6350.75
+"2316","ROOSEVELT IS","Tuesday",6319.25
+"2317","ROOSEVELT IS","Wednesday",6390.25
+"2318","SARATOGA AVE","Friday",6175.75
+"2319","SARATOGA AVE","Monday",4146
+"2320","SARATOGA AVE","Saturday",263.5
+"2321","SARATOGA AVE","Sunday",0.5
+"2322","SARATOGA AVE","Thursday",6148
+"2323","SARATOGA AVE","Tuesday",6145.25
+"2324","SARATOGA AVE","Wednesday",6201
+"2325","SENECA AVE","Friday",2626.5
+"2326","SENECA AVE","Monday",1866
+"2327","SENECA AVE","Saturday",266.25
+"2328","SENECA AVE","Sunday",189.5
+"2329","SENECA AVE","Thursday",2580.25
+"2330","SENECA AVE","Tuesday",2528
+"2331","SENECA AVE","Wednesday",2593.75
+"2332","SHEEPSHEAD BAY","Friday",14324.5
+"2333","SHEEPSHEAD BAY","Monday",13256
+"2334","SHEEPSHEAD BAY","Saturday",6969.5
+"2335","SHEEPSHEAD BAY","Sunday",5814.25
+"2336","SHEEPSHEAD BAY","Thursday",15130.5
+"2337","SHEEPSHEAD BAY","Tuesday",15599
+"2338","SHEEPSHEAD BAY","Wednesday",15568.5
+"2339","SHEPHERD AVE","Friday",3505.5
+"2340","SHEPHERD AVE","Monday",3145.25
+"2341","SHEPHERD AVE","Saturday",2120.5
+"2342","SHEPHERD AVE","Sunday",1855.25
+"2343","SHEPHERD AVE","Thursday",3432
+"2344","SHEPHERD AVE","Tuesday",3479.5
+"2345","SHEPHERD AVE","Wednesday",3463.75
+"2346","SIMPSON ST","Friday",10687.5
+"2347","SIMPSON ST","Monday",9476.25
+"2348","SIMPSON ST","Saturday",6989.25
+"2349","SIMPSON ST","Sunday",5546.25
+"2350","SIMPSON ST","Thursday",10612.25
+"2351","SIMPSON ST","Tuesday",10826
+"2352","SIMPSON ST","Wednesday",10709.75
+"2353","SMITH-9 ST","Friday",4924.75
+"2354","SMITH-9 ST","Monday",4501.5
+"2355","SMITH-9 ST","Saturday",3311.75
+"2356","SMITH-9 ST","Sunday",3118.75
+"2357","SMITH-9 ST","Thursday",4894
+"2358","SMITH-9 ST","Tuesday",4895.75
+"2359","SMITH-9 ST","Wednesday",5045.75
+"2360","SOUTH FERRY","Friday",21726.25
+"2361","SOUTH FERRY","Monday",20682.75
+"2362","SOUTH FERRY","Saturday",11793.5
+"2363","SOUTH FERRY","Sunday",10989.5
+"2364","SOUTH FERRY","Thursday",22095.75
+"2365","SOUTH FERRY","Tuesday",22823.5
+"2366","SOUTH FERRY","Wednesday",22374.25
+"2367","SPRING ST","Friday",28157.75
+"2368","SPRING ST","Monday",20991.75
+"2369","SPRING ST","Saturday",17199
+"2370","SPRING ST","Sunday",14631.75
+"2371","SPRING ST","Thursday",27238
+"2372","SPRING ST","Tuesday",25675
+"2373","SPRING ST","Wednesday",27101.5
+"2374","STEINWAY ST","Friday",15839.5
+"2375","STEINWAY ST","Monday",13010.75
+"2376","STEINWAY ST","Saturday",9161.25
+"2377","STEINWAY ST","Sunday",8273.25
+"2378","STEINWAY ST","Thursday",15480
+"2379","STEINWAY ST","Tuesday",15327.25
+"2380","STEINWAY ST","Wednesday",15692
+"2381","STERLING ST","Friday",6035.5
+"2382","STERLING ST","Monday",4132.5
+"2383","STERLING ST","Saturday",289.25
+"2384","STERLING ST","Sunday",1
+"2385","STERLING ST","Thursday",6091.5
+"2386","STERLING ST","Tuesday",5844.75
+"2387","STERLING ST","Wednesday",6110.75
+"2388","ST. GEORGE","Friday",13131.75
+"2389","ST. GEORGE","Monday",11262.5
+"2390","ST. GEORGE","Saturday",4605.25
+"2391","ST. GEORGE","Sunday",3800
+"2392","ST. GEORGE","Thursday",13866.25
+"2393","ST. GEORGE","Tuesday",14092.75
+"2394","ST. GEORGE","Wednesday",14296.5
+"2395","STILLWELL AVE","Friday",14349
+"2396","STILLWELL AVE","Monday",20330.75
+"2397","STILLWELL AVE","Saturday",19362.5
+"2398","STILLWELL AVE","Sunday",15319.25
+"2399","STILLWELL AVE","Thursday",13683.5
+"2400","STILLWELL AVE","Tuesday",15673.75
+"2401","STILLWELL AVE","Wednesday",14158.75
+"2402","ST LAWRENCE AVE","Friday",4384.75
+"2403","ST LAWRENCE AVE","Monday",3871
+"2404","ST LAWRENCE AVE","Saturday",2858.5
+"2405","ST LAWRENCE AVE","Sunday",2365.25
+"2406","ST LAWRENCE AVE","Thursday",4340
+"2407","ST LAWRENCE AVE","Tuesday",4279
+"2408","ST LAWRENCE AVE","Wednesday",4364.25
+"2409","SUTPHIN BLVD","Friday",29883.25
+"2410","SUTPHIN BLVD","Monday",27201
+"2411","SUTPHIN BLVD","Saturday",18177.75
+"2412","SUTPHIN BLVD","Sunday",15617.5
+"2413","SUTPHIN BLVD","Thursday",30057.5
+"2414","SUTPHIN BLVD","Tuesday",30073.25
+"2415","SUTPHIN BLVD","Wednesday",29954
+"2416","SUTTER AVE","Friday",13533
+"2417","SUTTER AVE","Monday",10202.75
+"2418","SUTTER AVE","Saturday",3853.25
+"2419","SUTTER AVE","Sunday",2900.25
+"2420","SUTTER AVE","Thursday",13360.25
+"2421","SUTTER AVE","Tuesday",13361.75
+"2422","SUTTER AVE","Wednesday",13593.5
+"2423","THIRTY THIRD ST","Friday",49539.25
+"2424","THIRTY THIRD ST","Monday",31190.25
+"2425","THIRTY THIRD ST","Saturday",21071
+"2426","THIRTY THIRD ST","Sunday",20368.5
+"2427","THIRTY THIRD ST","Thursday",35123.5
+"2428","THIRTY THIRD ST","Tuesday",33765.25
+"2429","THIRTY THIRD ST","Wednesday",36512.5
+"2430","TOMPKINSVILLE","Friday",793.25
+"2431","TOMPKINSVILLE","Monday",658
+"2432","TOMPKINSVILLE","Saturday",533.75
+"2433","TOMPKINSVILLE","Sunday",379.5
+"2434","TOMPKINSVILLE","Thursday",802
+"2435","TOMPKINSVILLE","Tuesday",815.75
+"2436","TOMPKINSVILLE","Wednesday",796.5
+"2437","TREMONT AVE","Friday",10186.75
+"2438","TREMONT AVE","Monday",9096.25
+"2439","TREMONT AVE","Saturday",6501.25
+"2440","TREMONT AVE","Sunday",5269.75
+"2441","TREMONT AVE","Thursday",10066
+"2442","TREMONT AVE","Tuesday",10060.75
+"2443","TREMONT AVE","Wednesday",10118.75
+"2444","TWENTY THIRD ST","Friday",7926
+"2445","TWENTY THIRD ST","Monday",6773.25
+"2446","TWENTY THIRD ST","Saturday",3506.5
+"2447","TWENTY THIRD ST","Sunday",2834.75
+"2448","TWENTY THIRD ST","Thursday",8925.5
+"2449","TWENTY THIRD ST","Tuesday",8759.5
+"2450","TWENTY THIRD ST","Wednesday",8274.5
+"2451","UNION ST","Friday",6400
+"2452","UNION ST","Monday",5341
+"2453","UNION ST","Saturday",4200.25
+"2454","UNION ST","Sunday",3973
+"2455","UNION ST","Thursday",6674.25
+"2456","UNION ST","Tuesday",6395.5
+"2457","UNION ST","Wednesday",6607.25
+"2458","UNION TPK-KEW G","Friday",28044.25
+"2459","UNION TPK-KEW G","Monday",24548.25
+"2460","UNION TPK-KEW G","Saturday",13320
+"2461","UNION TPK-KEW G","Sunday",10641
+"2462","UNION TPK-KEW G","Thursday",29273
+"2463","UNION TPK-KEW G","Tuesday",29434
+"2464","UNION TPK-KEW G","Wednesday",29567.25
+"2465","UTICA AVE","Friday",15739.75
+"2466","UTICA AVE","Monday",14918
+"2467","UTICA AVE","Saturday",12143.25
+"2468","UTICA AVE","Sunday",10761.25
+"2469","UTICA AVE","Thursday",15699.75
+"2470","UTICA AVE","Tuesday",15930.25
+"2471","UTICA AVE","Wednesday",15924
+"2472","VAN ALSTON-21ST","Friday",1530.5
+"2473","VAN ALSTON-21ST","Monday",1292.25
+"2474","VAN ALSTON-21ST","Saturday",1038.25
+"2475","VAN ALSTON-21ST","Sunday",962.25
+"2476","VAN ALSTON-21ST","Thursday",1487.5
+"2477","VAN ALSTON-21ST","Tuesday",1403.75
+"2478","VAN ALSTON-21ST","Wednesday",1391.5
+"2479","VAN SICLEN AVE","Friday",9979.5
+"2480","VAN SICLEN AVE","Monday",8200
+"2481","VAN SICLEN AVE","Saturday",4285.25
+"2482","VAN SICLEN AVE","Sunday",3450
+"2483","VAN SICLEN AVE","Thursday",9844.75
+"2484","VAN SICLEN AVE","Tuesday",9934.75
+"2485","VAN SICLEN AVE","Wednesday",10038.5
+"2486","VAN WYCK BLVD","Friday",4949
+"2487","VAN WYCK BLVD","Monday",4368
+"2488","VAN WYCK BLVD","Saturday",2472.25
+"2489","VAN WYCK BLVD","Sunday",2108
+"2490","VAN WYCK BLVD","Thursday",5072.5
+"2491","VAN WYCK BLVD","Tuesday",5180
+"2492","VAN WYCK BLVD","Wednesday",5163
+"2493","VERNON/JACKSON","Friday",14595
+"2494","VERNON/JACKSON","Monday",12179.5
+"2495","VERNON/JACKSON","Saturday",7806.75
+"2496","VERNON/JACKSON","Sunday",6949.75
+"2497","VERNON/JACKSON","Thursday",14864.75
+"2498","VERNON/JACKSON","Tuesday",14730.75
+"2499","VERNON/JACKSON","Wednesday",15062.75
+"2500","W 4 ST-WASH SQ","Friday",44452.75
+"2501","W 4 ST-WASH SQ","Monday",36070.25
+"2502","W 4 ST-WASH SQ","Saturday",31895.75
+"2503","W 4 ST-WASH SQ","Sunday",30195
+"2504","W 4 ST-WASH SQ","Thursday",43998.25
+"2505","W 4 ST-WASH SQ","Tuesday",42956.5
+"2506","W 4 ST-WASH SQ","Wednesday",43636.5
+"2507","W 8 ST-AQUARIUM","Friday",2271
+"2508","W 8 ST-AQUARIUM","Monday",2966.75
+"2509","W 8 ST-AQUARIUM","Saturday",1853
+"2510","W 8 ST-AQUARIUM","Sunday",1703.75
+"2511","W 8 ST-AQUARIUM","Thursday",2194.75
+"2512","W 8 ST-AQUARIUM","Tuesday",2486.5
+"2513","W 8 ST-AQUARIUM","Wednesday",2204
+"2514","WAKEFIELD-241","Friday",5472
+"2515","WAKEFIELD-241","Monday",5123.25
+"2516","WAKEFIELD-241","Saturday",3702.25
+"2517","WAKEFIELD-241","Sunday",3206.5
+"2518","WAKEFIELD-241","Thursday",5389.25
+"2519","WAKEFIELD-241","Tuesday",5545
+"2520","WAKEFIELD-241","Wednesday",5547
+"2521","WALL ST","Friday",54145.75
+"2522","WALL ST","Monday",44465.5
+"2523","WALL ST","Saturday",18597.5
+"2524","WALL ST","Sunday",14479.25
+"2525","WALL ST","Thursday",58489.75
+"2526","WALL ST","Tuesday",57137.75
+"2527","WALL ST","Wednesday",58594.75
+"2528","WASHINGTON-36 A","Friday",7826
+"2529","WASHINGTON-36 A","Monday",6948
+"2530","WASHINGTON-36 A","Saturday",5741
+"2531","WASHINGTON-36 A","Sunday",5094.75
+"2532","WASHINGTON-36 A","Thursday",7829.5
+"2533","WASHINGTON-36 A","Tuesday",7952.5
+"2534","WASHINGTON-36 A","Wednesday",7878.25
+"2535","WESTCHESTER SQ","Friday",7368.5
+"2536","WESTCHESTER SQ","Monday",6250
+"2537","WESTCHESTER SQ","Saturday",3381.5
+"2538","WESTCHESTER SQ","Sunday",2548.5
+"2539","WESTCHESTER SQ","Thursday",7407.5
+"2540","WESTCHESTER SQ","Tuesday",7525.75
+"2541","WESTCHESTER SQ","Wednesday",7589.75
+"2542","WHITLOCK AVE","Friday",1841.5
+"2543","WHITLOCK AVE","Monday",1656.75
+"2544","WHITLOCK AVE","Saturday",1136.25
+"2545","WHITLOCK AVE","Sunday",930.5
+"2546","WHITLOCK AVE","Thursday",1813
+"2547","WHITLOCK AVE","Tuesday",1828.75
+"2548","WHITLOCK AVE","Wednesday",1810.25
+"2549","WILSON AVE","Friday",4533.5
+"2550","WILSON AVE","Monday",4102.5
+"2551","WILSON AVE","Saturday",3161.25
+"2552","WILSON AVE","Sunday",2929.5
+"2553","WILSON AVE","Thursday",4438.75
+"2554","WILSON AVE","Tuesday",4472.25
+"2555","WILSON AVE","Wednesday",4437.75
+"2556","WINTHROP ST","Friday",7954.75
+"2557","WINTHROP ST","Monday",5593
+"2558","WINTHROP ST","Saturday",174
+"2559","WINTHROP ST","Sunday",0.5
+"2560","WINTHROP ST","Thursday",7943.25
+"2561","WINTHROP ST","Tuesday",7878.5
+"2562","WINTHROP ST","Wednesday",8097.25
+"2563","WOODHAVEN BLVD","Friday",28447.25
+"2564","WOODHAVEN BLVD","Monday",24715.75
+"2565","WOODHAVEN BLVD","Saturday",17995.25
+"2566","WOODHAVEN BLVD","Sunday",14988.5
+"2567","WOODHAVEN BLVD","Thursday",27749.25
+"2568","WOODHAVEN BLVD","Tuesday",27531
+"2569","WOODHAVEN BLVD","Wednesday",28093
+"2570","WOODLAWN ROAD","Friday",8053.75
+"2571","WOODLAWN ROAD","Monday",7259.75
+"2572","WOODLAWN ROAD","Saturday",4820.5
+"2573","WOODLAWN ROAD","Sunday",4251.25
+"2574","WOODLAWN ROAD","Thursday",8064.25
+"2575","WOODLAWN ROAD","Tuesday",8288.5
+"2576","WOODLAWN ROAD","Wednesday",8216.25
+"2577","YORK ST","Friday",9374
+"2578","YORK ST","Monday",7658.75
+"2579","YORK ST","Saturday",4859.25
+"2580","YORK ST","Sunday",4361.25
+"2581","YORK ST","Thursday",9510
+"2582","YORK ST","Tuesday",9228
+"2583","YORK ST","Wednesday",9477
+"2584","ZEREGA AVE","Friday",3152
+"2585","ZEREGA AVE","Monday",2938.25
+"2586","ZEREGA AVE","Saturday",3736.75
+"2587","ZEREGA AVE","Sunday",1396
+"2588","ZEREGA AVE","Thursday",3276.33333333333
+"2589","ZEREGA AVE","Tuesday",3392
+"2590","ZEREGA AVE","Wednesday",2892.75

@@ -2,8 +2,8 @@ library(dplyr)
 library(ggplot2)
 library(shiny)
 
-cat("Loading data...")
-turnstile_data <- read.csv("model_data.csv.bz2")
+print("Loading data...")
+turnstile_data <- read.csv("station_data.csv")
 turnstile_data <- mutate(turnstile_data,
                          day_week = factor(day_week,
                                            levels=c(
@@ -19,8 +19,11 @@ stations <- as.character(unique(turnstile_data$station))
 stations <- stations[order(stations)]
 days <- as.character(unique(turnstile_data$day_week))
 days <- days[order(days)]
-# Load pre-computed coefficients as it takes time to compute.
-load("fit.Rdata")
+
+# Load pre-computed fit to avoid expensive computations on startup.
+print("Loading fit...")
+fit <- readRDS("fit.rds")
+print("Loaded fit.")
 
 shinyServer(function(input, output) {
   output$station_selector <- renderUI({
@@ -32,7 +35,7 @@ shinyServer(function(input, output) {
   })
 
   output$prediction <- renderUI({
-    model_input = data.frame(station=input$station,time=input$hour * 60 * 60,day_week=input$day)
+    model_input = data.frame(station=input$station,time=input$hour * 60 * 60, day_week=input$day)
     HTML(paste("The predicted turnstile entry count for <b>",
           input$station,
           "</b> station on <b>",
@@ -45,12 +48,7 @@ shinyServer(function(input, output) {
   })
 
   output$ridershipPlot <- renderPlot({
-    turnstile_data_for_station <- turnstile_data %>%
-      filter(station == input$station) %>%
-      group_by(date, day_week) %>%
-      summarize(entries = sum(entries)) %>%
-      group_by(day_week) %>%
-      summarize(entries = mean(entries))
+    turnstile_data_for_station <- turnstile_data %>% filter(station == input$station)
     ggplot(turnstile_data_for_station, aes(day_week, entries, group = "day")) +
       geom_point() +
       geom_line() +
