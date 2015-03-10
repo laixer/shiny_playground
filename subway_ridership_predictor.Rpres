@@ -1,0 +1,67 @@
+NYC Subway Ridership Predictor
+========================================================
+author: Vadim Berezniker
+date: 2013-03-08
+
+NYC Subway Ridership Predictor
+========================================================
+
+Predicts ridership counts using the following features
+
+- Station
+- Day of week
+- Hour of day
+
+Ridership counts by day of week
+========================================================
+
+The application also allows exploration of ridership count by day of week
+for any of the stations.
+
+```{r, echo=FALSE, fig.width=10, fig.height=8}
+suppressPackageStartupMessages(library(dplyr))
+library(ggplot2)
+turnstile_data <- read.csv("station_data.csv")
+turnstile_data <- mutate(turnstile_data,
+                         day_week = factor(day_week,
+                                           levels=c(
+                                             "Monday",
+                                             "Tuesday",
+                                             "Wednesday",
+                                             "Thursday",
+                                             "Friday",
+                                             "Saturday",
+                                             "Sunday"),
+                                           ordered = TRUE))
+turnstile_data_for_station <- turnstile_data %>%
+  filter(station == "42 ST-TIMES SQ")
+ggplot(turnstile_data_for_station, aes(day_week, entries, group = "day")) +
+  geom_point() +
+  geom_line() +
+  ylim(0, NA) +
+  xlab("day of week") +
+  ggtitle(paste("turnstile entry counts for Times Square"))
+
+```
+
+Prediction Model
+========================================================
+
+The application uses a very dumb model for predicting counts.
+
+```{r}
+fit <- readRDS("fit.rds")
+predict(fit, data.frame(
+  station="42 ST-TIMES SQ",
+  time=8 * 60 * 60,
+  day_week="Tuesday"))
+```
+
+Future
+========================================================
+
+Make the model not dumb:
+  - Analyze data
+  - Pick meaningful features
+  - Use more complex model
+  - Use more data if necessary
